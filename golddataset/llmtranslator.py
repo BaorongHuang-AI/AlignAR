@@ -16,7 +16,7 @@ prompt_format = '''Please translate the arabic text to English, output text only
 {arabic_text}
 '''
 
-prompt_format_ar = '''Please translate the arabic text to Arabic, output text only:
+prompt_format_ar = '''Please translate the english text to Arabic, output text only:
 {arabic_text}
 '''
 
