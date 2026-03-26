@@ -1,0 +1,646 @@
+[
+  {
+    "Arabic Sentence": "§0§ الاكتتاب في الأسهم أو تملكها يفيد بقبول المساهم بنظام الشركة الأساس والتزامه بالقرارات التي تصدرها جمعيات المساهمين وفقًا لأحكام النظام ونظام الشركة الأساس، سواء أكان حاضرًا أم غائبًا، وسواء أكان موافقًا على هذه القرارات أم معارضًا لها.",
+    "English Sentence": "§0§ Subscription in shares or ownership thereof shall imply that the shareholder accepts the company’s articles of association and abides by the decisions issued by shareholder assemblies in accordance with the provisions of this Law and the company’s articles of association, whether he is present or absent, and whether he approves or objects to such decisions."
+  },
+  {
+    "Arabic Sentence": "§1§ تُصدر أسهم الشركة مقابل حصص نقدية أو عينية.",
+    "English Sentence": "§1§ Company shares shall be issued against cash or in-kind contributions."
+  },
+  {
+    "Arabic Sentence": "§2§ يجب ألا يقل المدفوع من قيمة الأسهم التي تُصدر مقابل حصص نقدية عن (ربع) قيمتها الاسمية المحددة في نظام الشركة الأساس، وتبين شهادة السهم الورقية أو الإلكترونية لشركة المساهمة غير المدرجة في السوق المالية مقدار ما دفع من قيمته.",
+    "English Sentence": "§2§ The paid amount of the value of shares issued against cash contributions shall not be less than one quarter of the nominal value of said shares as specified in the company’s articles of association.§3§ The paper or electronic share certificate of an unlisted joint-stock company shall indicate the paid amount of the value of shares."
+  },
+  {
+    "Arabic Sentence": "§3§ وفي جميع الأحوال يجب أن يُدفع باقي هذه القيمة خلال (خمس) سنوات من تاريخ إصدار الأسهم.",
+    "English Sentence": "§4§ In all cases, the remaining amount shall be paid within five years from the date on which the shares are issued."
+  },
+  {
+    "Arabic Sentence": "§4§ تُصدر الأسهم التي تمثل حصصًا عينية بعد الوفاء بقيمتها كاملة، ولا تُسلّم إلى أصحابها إلا بعد نقل ملكية هذه الحصص كاملة إلى الشركة.",
+    "English Sentence": "§5§ Shares representing in-kind contributions shall be issued upon payment of their full value; they may not be delivered to their holders until ownership of such contributions is transferred to the company in full."
+  },
+  {
+    "Arabic Sentence": "§5§ لا يجوز أن تصدر الأسهم بأقل من قيمتها الاسمية، ويجوز أن تصدر بأعلى من هذه القيمة إذا نص نظام الشركة الأساس على ذلك أو وافقت عليه الجمعية العامة غير العادية، وفي هذه الحالة يُوضع فرق القيمة في بند مستقل ضمن حقوق المساهمين، وتحدد اللوائح ضوابط استخدامه.",
+    "English Sentence": "§6§ Shares may not be issued for less than their nominal value.§7§ However, they may be issued for more than their nominal value if provided for in the company’s articles of association or if approved by the extraordinary general assembly; in such case, the difference in value shall be added in a separate item as part of the shareholders’ rights, and the Regulations shall specify its terms of use."
+  },
+  {
+    "Arabic Sentence": "§6§ تثبت للمساهم الحقوق المتصلة بالسهم، وتشمل حق التصرف فيه، وحق حضور جمعيات المساهمين، والاشتراك في مداولاتها، والتصويت على قراراتها، والحق في الحصول على نصيب من صافي الأرباح التي يتقرر توزيعها، وحق انتخاب أعضاء مجلس الإدارة، وحق الاطلاع على سجلات الشركة ووثائقها بما لا يخل بسرية المعلومات، ومراقبة أعمال مجلس الإدارة، ورفع دعوى المسؤولية على أعضاء المجلس، والطعن بالبطلان في قرارات جمعيات المساهمين، والحق في الحصول على نصيب من أصول الشركة عند التصفية، وذلك بالشروط والقيود الواردة في النظام أو في نظام الشركة الأساس.",
+    "English Sentence": "§8§ A shareholder shall, in accordance with the terms and conditions provided for in this Law or the company’s articles of association, have all of the rights associated with shares, including disposition of shares; attending shareholder assemblies, participating in their deliberations, and voting on their decisions; receiving dividends; electing board members; having access to the company’s records and documents without prejudice to the confidentiality of information; monitoring board activities; initiating derivative actions against board members; challenging the validity of shareholder assembly decisions; and receiving a share of the company’s assets upon liquidation."
+  },
+  {
+    "Arabic Sentence": "§7§ تنقسم أنواع الأسهم التي يجوز للشركة إصدارها إلى: أسهم عادية، وأسهم ممتازة، وأسهم قابلة للاسترداد.",
+    "English Sentence": "§9§ The types of shares that a company may issue shall be as follows: common, preferred, and redeemable."
+  },
+  {
+    "Arabic Sentence": "§8§ ويجوز النص في نظام الشركة الأساس على فئات مختلفة من أنواع الأسهم ومنح بعض الحقوق أو الامتيازات أو وضع قيود على بعض تلك الفئات.",
+    "English Sentence": "§10§ The company's articles of association may provide for different classes of share types and may grant certain rights or privileges to certain classes or set restrictions thereon."
+  },
+  {
+    "Arabic Sentence": "§9§ ترتب الأسهم من ذات النوع أو الفئة حقوقاً والتزامات متساوية، ويكون لكل نوع أو فئة من الأسهم الحقوق المتصلة بها وفقاً لنظام الشركة الأساس.",
+    "English Sentence": "§11§ Shares of the same type or class shall have equal rights and obligations.§12§ Each type or class of shares shall have the rights associated therewith as stipulated in the company's articles of association."
+  },
+  {
+    "Arabic Sentence": "§10§ تحدد اللوائح ضوابط أنواع وفئات الأسهم التي يجوز إصدارها.",
+    "English Sentence": "§13§ The Regulations shall specify rules for the types and classes of shares that may be issued."
+  },
+  {
+    "Arabic Sentence": "§11§ يجوز في الحالات التي يكون فيها لدى الشركة أسهم من أنواع أو فئات مختلفة تحويل نوع أو فئة منها إلى نوع أو فئة أخرى إذا نص نظام الشركة الأساس على ذلك.",
+    "English Sentence": "§14§ If the company has shares of different types or classes, it may convert one type or class into another type or class if provided for in the company’s articles of association."
+  },
+  {
+    "Arabic Sentence": "§12§ يشترط لتحويل نوع أو فئة من الأسهم إلى نوع أو فئة أخرى الحصول على موافقة الجمعية العامة غير العادية.",
+    "English Sentence": "§15§ To convert a type or class of shares into another type or class, the approval of the extraordinary general assembly must be obtained, except for cases in which the decision to issue shares stipulates that they are automatically converted into another type or class upon satisfying certain conditions or upon the lapse of a specified period."
+  },
+  {
+    "Arabic Sentence": "§13§ ويُستثنى من ذلك الحالات التي ينص قرار إصدار الأسهم على تحولها تلقائيًا إلى نوع أو فئة أخرى عند تحقق شروط معينة أو بعد مضي مدة محددة.",
+    "English Sentence": "§15§ To convert a type or class of shares into another type or class, the approval of the extraordinary general assembly must be obtained, except for cases in which the decision to issue shares stipulates that they are automatically converted into another type or class upon satisfying certain conditions or upon the lapse of a specified period."
+  },
+  {
+    "Arabic Sentence": "§14§ تسري الأحكام الواردة في المادة (العاشرة بعد المائة) من النظام في الحالات التي يترتب فيها على تحويل الأسهم تعديل أو إلغاء الحقوق أو الالتزامات المتصلة بنوع أو فئة السهم.",
+    "English Sentence": "§16§ The provisions provided for in Article 110 of this Law shall apply to cases in which the conversion of shares requires the amendment or cancellation of the rights or obligations associated with a type or class of shares."
+  },
+  {
+    "Arabic Sentence": "§15§ لا يجوز تحويل الأسهم العادية ولا الأسهم الممتازة ولا أي فئة من فئاتها إلى أسهم قابلة للاسترداد أو أي من فئاتها؛ إلا بموافقة جميع المساهمين في الشركة.",
+    "English Sentence": "§17§ Common and preferred shares and their classes may not be converted into redeemable shares or any classes thereof except with the approval of all shareholders of the company."
+  },
+  {
+    "Arabic Sentence": "§16§ تحدد اللوائح ضوابط تنفيذ ما ورد في هذه المادة وكيفية التعامل مع آثار وحقوق والتزامات الأسهم قبل التحويل أو بعده.",
+    "English Sentence": "§18§ The Regulations shall determine the implementing rules of this Article and the manner in which the effects, rights, and obligations of shares are managed prior to conversion or thereafter."
+  },
+  {
+    "Arabic Sentence": "§17§ إذا كانت أسهم الشركة من أنواع وفئات مختلفة أو كان نظام الشركة الأساس يسمح بإصدار أنواع وفئات مختلفة من الأسهم، فيشترط لتعديل أو إلغاء أيٍّ من الحقوق أو الالتزامات أو القيود المتصلة بالأسهم، أو لتحويل أي نوع أو فئة من الأسهم إلى نوع أو فئة أخرى إذا نتج عن ذلك تعديل أو إلغاء الحقوق أو الالتزامات المتصلة بنوع أو فئة الأسهم التي ستُحوَّل، أو لإصدار أسهم من نوع أو فئة معينة يترتب عليها مساس بحقوق فئة أخرى من المساهمين؛ الحصول على موافقة جمعية خاصة مكونة وفقًا للمادة (التاسعة والثمانين) من النظام من أصحاب الأسهم الذين يضارون من هذا التعديل أو الإلغاء أو التحويل أو الإصدار، وموافقة الجمعية العامة غير العادية.",
+    "English Sentence": "§19§ If company shares are of different types and classes or if the company’s articles of association allow for the issuance of different types and classes of shares, the amendment or cancellation of any of the rights, obligations, or restrictions associated with said shares; the conversion of any type or class of shares into another type or class, if such conversion results in the amendment or cancellation of the rights or obligations associated with the type or class of shares to be converted; or the issuance of shares of a particular type or class that would prejudice the rights of another class of shareholders, shall require the approval of a special assembly composed, in accordance with Article 89 of this Law, of shareholders who are prejudiced by such amendment, cancellation, conversion, or issuance as well as the approval of the extraordinary general assembly."
+  },
+  {
+    "Arabic Sentence": "§18§ إذا كانت ضمن أسهم الشركة أسهم ممتازة أو أسهم قابلة للاسترداد، فلا يجوز إصدار أسهم جديدة تكون لها أولوية على أي من فئاتهما إلا بموافقة جمعية خاصة مكونة وفقًا للمادة (التاسعة والثمانين) من النظام من أصحاب الأسهم الذين يضارون من هذا الإصدار.",
+    "English Sentence": "§20§ If company shares include preferred or redeemable shares, new shares with priority over any of their classes may not be issued except with the approval of a special assembly composed, in accordance with Article 89 of this Law, of shareholders who are prejudiced by such issuance."
+  },
+  {
+    "Arabic Sentence": "§19§ - للهيئة وضع قيود تتعلق بتداول الأسهم في شركات المساهمة التي ترغب في إدراج أسهمها في السوق المالية.",
+    "English Sentence": "§21§ The CMA may set restrictions on the trading of shares of joint-stock companies that intend to be listed in the capital market."
+  },
+  {
+    "Arabic Sentence": "§20§ ٢- يجوز أن ينص في نظام الشركة الأساس على قيود تتعلق بتداول الأسهم، بما في ذلك تقرير حق طلب استرداد الأسهم للمساهمين، ويشترط في جميع الأحوال ألا يكون من شأن ذلك الحظر المطلق لهذا التداول.",
+    "English Sentence": "§22§ The company’s articles of association may provide for restrictions on the trading of shares, including the right of shareholders to request redemption of shares, provided that such restrictions do not lead to a permanent ban on the trading of shares."
+  },
+  {
+    "Arabic Sentence": "§21§ تُعِدّ شركة المساهمة غير المدرجة في السوق المالية سجلًا خاصًا بأسماء المساهمين وجنسياتهم وبياناتهم وأماكن إقامتهم ومهنهم، وعدد الأسهم التي يملكونها كل منهم، وأرقام الأسهم والقدر المدفوع منها، وللشركة أن تتعاقد على إعداد هذا السجل، ويجب حفظه في المملكة.",
+    "English Sentence": "§23§ An unlisted joint-stock company shall prepare a special register which includes shareholders’ names, nationalities, particulars, places of residence, and occupations as well as the number of shares owned by each shareholder, their serial numbers, and the amount paid of their value.§24§ The company may outsource the preparation of the register; said register shall be maintained in the Kingdom."
+  },
+  {
+    "Arabic Sentence": "§22§ على الشركة تزويد السجل التجاري ببيانات السجل المشار إليه في الفقرة (١) من هذه المادة وأي تعديل يطرأ عليه خلال (خمسة عشر) يومًا من تاريخ قيد الشركة لدى السجل التجاري أو من تاريخ التعديل بحسب الأحوال.",
+    "English Sentence": "§25§ The company shall provide the Commercial Register with the information referred to in paragraph (1) of this Article and any amendment thereto within 15 days from the date of the company’s registration with the Commercial Register or from the date of the amendment, as the case may be."
+  },
+  {
+    "Arabic Sentence": "§23§ دون إخلال بنظام السوق المالية، يجوز أن ينص في نظام الشركة الأساس بعد موافقة المساهمين الذين يمثلون (تسعين في المائة) من أسهم الشركة التي لها حقوق تصويت على الأقل، على الآتي:",
+    "English Sentence": "§26§ Without prejudice to the Capital Market Law, the company’s articles of association may, upon the approval of shareholders representing at least 90% of the company’s voting shares, provide for the following:"
+  },
+  {
+    "Arabic Sentence": "§24§ أن يكون لأكثرية المساهمين إلزام الأقلية بقبول عرض من مُشترٍ حسن النية لشراء جميع أسهم الشركة بذات السعر والشروط والأحكام الخاصة بشراء أسهم الأكثرية.",
+    "English Sentence": "§27§ Majority shareholders shall have the right to obligate minority shareholders to accept an offer from a bona fide buyer to purchase all of the company’s shares for the same price and under the same terms and conditions applicable to the purchase of majority shares."
+  },
+  {
+    "Arabic Sentence": "§25§ أن يكون لأقلية المساهمين إلزام الأكثرية بضمان بيع أسهم الأقلية في الحالات التي يبيع فيها الأكثرية أسهمهم بذات السعر والشروط والأحكام الخاصة ببيع أسهم الأكثرية.",
+    "English Sentence": "§28§ In cases where the majority sell their shares, minority shareholders shall have the right to obligate majority shareholders to guarantee the sale of minority shares for the same price and under the same terms and conditions applicable to the sale of majority shares."
+  },
+  {
+    "Arabic Sentence": "§26§ يجوز أن تشتري الشركة أسهمها أو ترتهنها إذا أجاز نظامها الأساس ذلك، ولا يكون للأسهم التي تشتريها الشركة أصوات في جمعيات المساهمين.",
+    "English Sentence": "§29§ The company may purchase its own shares or accept them as a pledge if permitted under its articles of association.§30§ Shares purchased by the company shall have no voting rights in shareholder assemblies."
+  },
+  {
+    "Arabic Sentence": "§27§ يجوز رهن الأسهم، ويكون للدائن المرتهن قبض الأرباح واستعمال الحقوق المتصلة بالسهم، ما لم يتفق في عقد الرهن على غير ذلك.",
+    "English Sentence": "§31§ Shares may be pledged and the pledgee may receive dividends and exercise share-related rights, unless the pledge agreement stipulates otherwise."
+  },
+  {
+    "Arabic Sentence": "§28§ ولا يجوز للدائن المرتهن حضور اجتماعات جمعيات المساهمين ولا التصويت فيها.",
+    "English Sentence": "§32§ The pledgee may not attend shareholder assembly meetings nor vote therein."
+  },
+  {
+    "Arabic Sentence": "§29§ تُحدد اللوائح الضوابط اللازمة لتنفيذ ما ورد في هذه المادة.",
+    "English Sentence": "§33§ The Regulations shall specify the rules necessary for the implementation of the provisions of this Article."
+  },
+  {
+    "Arabic Sentence": "§30§ يلتزم المساهم بدفع المتبقي من قيمة السهم في المواعيد المحددة لذلك، وإذا تخلف عن الوفاء في الموعد المحدد، جاز لمجلس الإدارة - بعد إعلامه بالطرق المقررة في نظام الشركة الأساس أو إبلاغه بخطاب مسجل أو بأي وسيلة من وسائل التقنية الحديثة - بيع السهم في المزاد العلني أو السوق المالية، بحسب الأحوال.",
+    "English Sentence": "§34§ A shareholder shall pay the remaining amount of the value of the share on the designated dates.§35§ In case of non-payment, the board of directors may, after notifying the shareholder in the manner prescribed in the company’s articles of association or by registered mail or through any means of technology, sell the share at a public auction or in the capital market, as the case may be."
+  },
+  {
+    "Arabic Sentence": "§31§ ويجوز أن ينص نظام الشركة الأساس على أن يكون للمساهمين الآخرين أولوية في شراء أسهم المساهم المتخلف عن الدفع.",
+    "English Sentence": "§36§ The company's articles of association may grant other shareholders a preemptive right to purchase the shares of the non-paying shareholder."
+  },
+  {
+    "Arabic Sentence": "§32§ تُستوفي الشركة من حصيلة البيع المبالغ المستحقة لها وترد الباقي إلى صاحب السهم.",
+    "English Sentence": "§37§ The company shall receive the amounts due thereto from the sale proceeds and shall return any remaining amount to the shareholder."
+  },
+  {
+    "Arabic Sentence": "§33§ وإذا لم تكفِ حصيلة البيع للوفاء بهذه المبالغ، جاز للشركة أن تستوفي الباقي من جميع أموال المساهم.",
+    "English Sentence": "§38§ If the sale proceeds are not sufficient to satisfy the due amounts, the company may satisfy such amounts from the shareholder’s property."
+  },
+  {
+    "Arabic Sentence": "§34§ يُعلق نفاذ الحقوق المتصلة بالأسهم المتخلّف عن الوفاء بقيمتها عند انقضاء الموعد المحدد لها إلى حين بيعها أو دفع المستحق منها وفقاً لحكم الفقرة (١) من هذه المادة، وتشمل حق الحصول على نصيب من صافي الأرباح التي يتقرر توزيعها وحق حضور الجمعيات والتصويت على قراراتها.",
+    "English Sentence": "§39§ Rights associated with shares the value of which is not paid by the due date shall be suspended until such shares are sold or the due amount is paid in accordance with the provision of paragraph (1) of this Article; such rights include the right to receive dividends and attend shareholder assemblies and vote on their decisions."
+  },
+  {
+    "Arabic Sentence": "§35§ ومع ذلك، يجوز للمساهم المتخلف عن الدفع إلى يوم البيع دفع القيمة المستحقة عليه مضافاً إليها المصروفات التي أنفقتها الشركة في هذا الشأن، وفي هذه الحالة يكون للمساهم الحق في طلب الحصول على الأرباح التي تقرر توزيعها.",
+    "English Sentence": "§40§ However, the non-paying shareholder may, up to the date of sale, pay the due amount, in addition to any related expenses incurred by the company; in such case, he shall have the right to demand payment of dividends."
+  },
+  {
+    "Arabic Sentence": "§36§ تُلغي الشركة شهادة السهم المبيع وفقاً لأحكام هذه المادة، وتعطي المشتري شهادة جديدة بالسهم تحمل الرقم ذاته، وتؤشر في سجل المساهمين بوقوع البيع مع إدراج البيانات اللازمة للمالك الجديد.",
+    "English Sentence": "§41§ The company shall cancel the certificate of the share sold in accordance with the provisions of this Article and shall provide the buyer with a new certificate bearing the serial number of the canceled certificate.§42§ The sale shall be recorded in the shareholders register along with the particulars of the new holder."
+  },
+  {
+    "Arabic Sentence": "§37§ لا يجوز للشركة أن تطالب المساهم بدفع مبالغ تزيد على مقدار ما التزم به عند إصدار السهم ولو نص نظام الشركة الأساس على ذلك.",
+    "English Sentence": "§43§ The company may not demand a shareholder to pay any amount other than the amount determined upon the issuance of the share, even if provided for in the company’s articles of association."
+  },
+  {
+    "Arabic Sentence": "§38§ لشركة المساهمة أن تصدر – وفقًا لنظام السوق المالية – أدوات دين أو صكوكًا تمويلية قابلة للتداول.",
+    "English Sentence": "§44§ A joint-stock company may, in accordance with the Capital Market Law, issue negotiable debt instruments or financing sukuk."
+  },
+  {
+    "Arabic Sentence": "§39§ يشترط لإصدار الشركة أدوات دين أو صكوكًا تمويلية قابلة للتحويل إلى أسهم، صدور قرار من الجمعية العامة غير العادية تبين فيه الحد الأقصى لعدد الأسهم التي يجوز إصدارها مقابل تلك الأدوات أو الصكوك، سواء أصدرت تلك الأدوات أو الصكوك في وقت واحد أم من خلال سلسلة من الإصدارات أم من خلال برنامج أو أكثر لإصدارها.",
+    "English Sentence": "§45§ For a company to issue debt instruments or financing sukuk that are convertible into shares, the extraordinary general assembly must issue a decision to determine the maximum number of shares that may be issued against such instruments or sukuk, whether they are issued at the same time, consecutively, or under one or more issuing schemes."
+  },
+  {
+    "Arabic Sentence": "§40§ ويصدر مجلس الإدارة -دون حاجة إلى موافقة جديدة من هذه الجمعية- أسهمًا جديدة مقابل تلك الأدوات أو الصكوك التي يطلب حاملوها تحويلها فور انتهاء مدة طلب التحويل المحددة لحملة تلك الأدوات أو الصكوك، أو عند تحقق شروط تحويلها تلقائيًا إلى أسهم أو بمضي المدة المحددة لهذا التحويل، ويتخذ المجلس ما يلزم لتعديل نظام الشركة الأساس فيما يتعلق بعدد الأسهم المصدرة ورأس المال.",
+    "English Sentence": "§46§ The board of directors shall, without the need for a new approval from the assembly, issue new shares against such instruments or sukuk upon the satisfaction of the conditions for their conversion into shares or the lapse of the period set for such conversion, or, in case of instruments or sukuk the conversion of which requires the submission of a conversion request by their holders, upon the lapse of the period specified for such request.§47§ The board of directors shall take the necessary measures to amend the company’s articles of association with regard to the number of issued shares and the company’s capital."
+  },
+  {
+    "Arabic Sentence": "§41§ يجب على مجلس الإدارة قيد اكتمال إجراءات كل زيادة في رأس المال لدى السجل التجاري.",
+    "English Sentence": "§48§ The board of directors must register the completion of procedures of each capital increase with the Commercial Register."
+  },
+  {
+    "Arabic Sentence": "§42§ يجوز للشركة تحويل أدوات الدين أو الصكوك التمويلية إلى أسهم وفقًا لنظام السوق المالية، وذلك بموافقة حاملها سواء أكانت موافقة سابقة كأن تكون ضمن شروط الإصدار أم باتفاق لاحق.",
+    "English Sentence": "§49§ The company may convert debt instruments or financing sukuk into shares in accordance with the Capital Market Law upon the approval of their holders, whether such approval is provided as part of the issuance conditions or pursuant to a subsequent agreement."
+  },
+  {
+    "Arabic Sentence": "§43§ يجوز لكل ذي مصلحة أن يطلب من الجهة القضائية المختصة إبطال التصرف الذي يتم بالمخالفة لأحكام المادتين (السابعة عشرة بعد المائة) أو (الثامنة عشرة بعد المائة) من النظام، فضلًا عن تعويض أصحاب أدوات الدين أو الصكوك التمويلية عن الضرر الذي لحق بهم.",
+    "English Sentence": "§50§ A person with interest may petition the competent judicial authority to invalidate any action in violation of the provisions of Articles 117 or 118 of this Law, and to compensate the holders of debt instruments or financing sukuk for any sustained damage."
+  },
+  {
+    "Arabic Sentence": "§44§ تسري قرارات جمعيات المساهمين على أصحاب أدوات الدين والصكوك التمويلية.",
+    "English Sentence": "§51§ Decisions of shareholder assemblies shall apply to holders of debt instruments and financing sukuk."
+  },
+  {
+    "Arabic Sentence": "§45§ ومع ذلك، لا يجوز لهذه الجمعيات تعديل الحقوق المقررة لهم إلا بموافقة تصدر منهم في جمعية خاصة بهم تنعقد وفقًا لأحكام المادة (التاسعة والثمانين) من النظام.Bottom of Form",
+    "English Sentence": "§52§ However, said assemblies may not amend the rights established for such holders unless they approve the amendments in a special assembly held thereby in accordance with the provisions of Article 89 of this Law."
+  },
+  {
+    "Arabic Sentence": "§46§ يجب على مجلس الإدارة في نهاية كل سنة مالية للشركة أن يعد القوائم المالية للشركة وتقريرًا عن نشاطها ومركزها المالي عن السنة المالية المنقضية، ويضمن هذا التقرير الطريقة المقترحة لتوزيع الأرباح.",
+    "English Sentence": "§53§ The board of directors shall, at the end of the company’s fiscal year, prepare the company’s financial statements as well as a report on its activities and financial position for the ending fiscal year.§54§ Said report shall include a proposal on the manner of distributing dividends."
+  },
+  {
+    "Arabic Sentence": "§47§ ويضع المجلس هذه الوثائق تحت تصرف مراجع الحسابات من وجد، قبل الموعد المحدد لانعقاد الجمعية العامة العادية السنوية (بخمسة وأربعين) يومًا على الأقل.",
+    "English Sentence": "§55§ The board shall make such documents available to the auditor, if any, at least 45 days prior to the date set for the annual ordinary general assembly meeting."
+  },
+  {
+    "Arabic Sentence": "§48§ يجب أن يوقع رئيس مجلس إدارة الشركة ورئيسها التنفيذي، ومديرها المالي إن وجد، الوثائق المشار إليها في الفقرة (١) من هذه المادة، وتودع نسخ منها في مركز الشركة الرئيس تحت تصرف المساهمين.",
+    "English Sentence": "§56§ The documents referred to in paragraph (1) of this Article shall be signed by the chairman of the company’s board of directors and its chief executive officer as well as by its chief financial officer, if any.§57§ Copies of such documents shall be maintained at the company’s headquarters and made available to shareholders."
+  },
+  {
+    "Arabic Sentence": "§49§ على رئيس مجلس الإدارة أن يزوّد المساهمين بالقوائم المالية للشركة وتقرير مجلس الإدارة، بعد توقيعها، وتقرير مراجع الحسابات إن وجد، بما لم تنشر في أي من وسائل التقنية الحديثة، وذلك قبل الموعد المحدد لانعقاد الجمعية العامة العادية السنوية (بواحد وعشرين) يوماً على الأقل، وعليه أيضاً إيداع هذه الوثائق وفقاً لما تحدده اللوائح.",
+    "English Sentence": "§58§ The chairman of the board of directors shall provide shareholders with the company’s financial statements and the board’s report after signing the same, as well as the auditor’s report, if any, unless they are published using any means of technology, at least 21 days prior to the date set for the annual ordinary general assembly meeting.§59§ The chairman of the board shall also deposit such documents in accordance with the Regulations."
+  },
+  {
+    "Arabic Sentence": "§50§ يجوز النص في نظام الشركة الأساس على تجنيب نسبة معينة من صافي الأرباح لتكوين احتياطي يُخصص للأغراض التي يحددها النظام الأساس.",
+    "English Sentence": "§60§ The company’s articles of association may provide for setting aside a certain percentage of the net profit to create a reserve allocated for purposes specified in the articles of association."
+  },
+  {
+    "Arabic Sentence": "§51§ وللجهة المختصة وضع ضوابط تكوين الاحتياطيات.",
+    "English Sentence": "§61§ The Competent Authority may set rules for creating such reserves."
+  },
+  {
+    "Arabic Sentence": "§52§ للجمعية العامة العادية -عند تحديد نصيب الأسهم في صافي الأرباح- أن تقرر تكوين احتياطيات أخرى، وذلك بالقدر الذي يحقق مصلحة الشركة أو يكفل توزيع أرباح ثابتة -قدر الإمكان- على المساهمين.",
+    "English Sentence": "§62§ The ordinary general assembly may, when determining dividends from the net profit, decide to create other reserves to serve the company’s interest or ensure the distribution of fixed dividends, as feasible, to the shareholders."
+  },
+  {
+    "Arabic Sentence": "§53§ وللجمعية المذكورة كذلك أن تقتطع من صافي الأرباح مبالغ لتحقيق أغراض اجتماعية لعاملي الشركة.",
+    "English Sentence": "§63§ Said assembly may allocate amounts from the net profit for social objectives that benefit the company’s staff."
+  },
+  {
+    "Arabic Sentence": "§54§ لا يجوز أن يُستخدم الاحتياطي المخصص لأغراضٍ محددة في نظام الشركة الأساس إلا بقرار من الجمعية العامة غير العادية.",
+    "English Sentence": "§64§ The reserve allocated for specific purposes in the company’s articles of association may not be used except pursuant to a decision by the extraordinary general assembly."
+  },
+  {
+    "Arabic Sentence": "§55§ وإذا لم يكن هذا الاحتياطي مخصصاً لغرضٍ معين، جاز للجمعية العامة العادية -بناءً على اقتراح مجلس الإدارة- أن تقرر صرفه فيما يعود بالنفع على الشركة أو المساهمين. وللجهة المختصة وضع ضوابط استخدام الاحتياطيات.",
+    "English Sentence": "§65§ If such reserve is not allocated for a specific purpose, the ordinary general assembly may, upon a recommendation by the board of directors, decide to use the reserve for the benefit of the company or the shareholders.§66§ The Competent Authority may set the rules for using such reserves."
+  },
+  {
+    "Arabic Sentence": "§56§ يجوز للجمعية العامة العادية استخدام الأرباح المبقاة والاحتياطيات القابلة للتوزيع لسداد المبلغ المتبقي من قيمة السهم أو جزءٍ منه، على ألا يُخل ذلك بالعدالة بين المساهمين وفقاً لأحكام النظام.",
+    "English Sentence": "§67§ The ordinary general assembly may use retained earnings and distributable reserves to pay the remaining value of the share or part thereof, provided fairness among shareholders is observed in accordance with the provisions of this Law."
+  },
+  {
+    "Arabic Sentence": "§57§ تُعد الجمعية العامة النسبة التي يجب توزيعها على المساهمين من الأرباح الصافية بعد خصم الاحتياطيات، إن وجدت.",
+    "English Sentence": "§68§ The general assembly shall determine the percentage of the net profit to be distributed to the shareholders after deducting the reserves, if any."
+  },
+  {
+    "Arabic Sentence": "§58§ يستحق المساهم حصته في الأرباح وفقاً لقرار الجمعية العامة الصادر في هذا الشأن، ويبين القرار تاريخ الاستحقاق وتاريخ التوزيع.",
+    "English Sentence": "§69§ A shareholder shall be entitled to dividends pursuant to a decision issued by the general assembly.§70§ The decision shall indicate eligibility and distribution dates."
+  },
+  {
+    "Arabic Sentence": "§59§ وتكون أحقية الأرباح لمالكي الأسهم المسجلين في سجلات المساهمين في نهاية اليوم المحدد للاستحقاق.",
+    "English Sentence": "§71§ Shareholders registered in the shareholders’ register by the end of the eligibility date shall be eligible to receive dividends."
+  },
+  {
+    "Arabic Sentence": "§60§ وتحدد اللوائح الحد الأقصى للمدة التي يجب على مجلس الإدارة أن ينفذ خلالها قرار الجمعية العامة في شأن توزيع الأرباح على المساهمين.",
+    "English Sentence": "§72§ The Regulations shall determine the maximum period during which the board of directors shall implement the general assembly’s decision regarding the distribution of dividends to shareholders."
+  },
+  {
+    "Arabic Sentence": "§61§ يزاد رأس المال بإحدى الطرق الآتية:",
+    "English Sentence": "§73§ Capital shall be increased by any of the following methods:"
+  },
+  {
+    "Arabic Sentence": "§62§ إصدار أسهم جديدة مقابل حصص نقدية أو عينية.",
+    "English Sentence": "§74§ Issuing new shares against cash or in-kind contributions."
+  },
+  {
+    "Arabic Sentence": "§63§ إصدار أسهم جديدة مقابل ما على الشركة من ديون معينة المقدار، حالّة الأداء، بموافقة الدائنين المعنيين.",
+    "English Sentence": "§75§ Issuing new shares against company debts which are due and of a specific amount, subject to the consent of relevant creditors."
+  },
+  {
+    "Arabic Sentence": "§64§ على أن يكون الإصدار بالقيمة التي تقررها الجمعية العامة غير العادية بعد الاستعانة برأي خبير أو مقيم معتمد أو أكثر، وبعد أن يعد مجلس الإدارة بيانًا عن منشأ هذه الديون ومقدارها، ويوقّع أعضاء المجلس هذا البيان ويكونون مسؤولين عن صحته، ويرفق في شأنه تقرير من مراجع حسابات الشركة.",
+    "English Sentence": "§76§ The issuance of such shares shall be made at the value determined by the extraordinary general assembly after obtaining the opinion of one or more experts or accredited valuers and after the issuance of a statement by the board of directors indicating the origin and amount of company debts.§77§ Such statement shall be signed by the members of the board of directors who shall be liable for its accuracy.§78§ The statement shall be accompanied with a report on the matter prepared by the company’s auditor."
+  },
+  {
+    "Arabic Sentence": "§65§ إصدار أسهم جديدة بمِـقْـدار الاحتياطي الذي تقرر الجمعية العامة غير العادية إدماجه في رأس المال، ويجب أن تصدر هذه الأسهم بنفس شكل وأوضاع الأسهم المصدرة من ذات النوع أو الفئة، وتوزع تلك الأسهم على المساهمين دون مقابل بنسبة ما يملكه كل منهم من الأسهم الأصلية.",
+    "English Sentence": "§79§ Issuing new shares equal to the amount of the reserve which the extraordinary general assembly decides to include in the capital.§80§ Such shares shall be issued in the same form and under the same conditions of issued shares of the same type or class.§81§ The shares shall be distributed to shareholders for no consideration, in proportion to their original shares."
+  },
+  {
+    "Arabic Sentence": "§66§ إصدار أسهم جديدة مقابل أدوات الدين أو الصكوك التمويلية.",
+    "English Sentence": "§82§ Issuing new shares against debt instruments or financing sukuk."
+  },
+  {
+    "Arabic Sentence": "§67§ للجمعية العامة غير العادية أن تقرر زيادة رأس مال الشركة المصدر، أو المصرح به -إن وجد- بشرط أن يكون رأس المال المصدر قد دُفع كاملاً.",
+    "English Sentence": "§83§ The extraordinary general assembly may decide to increase the company’s issued capital or its authorized capital, if any, provided that the issued capital has been paid in full."
+  },
+  {
+    "Arabic Sentence": "§68§ ولا يُشترط أن يكون رأس المال قد دُفع بأكمله إذا كان الجزء غير المدفوع منه يعود إلى أسهم صدرت مقابل تحويل أدوات دين أو صكوك تمويلية إلى أسهم ولم تنتهِ بعد المدة المقررة لتحويلها.",
+    "English Sentence": "§84§ The full payment of capital shall not be required if the unpaid portion of said capital relates to shares issued against the conversion of debt instruments or financing sukuk into shares and the period set for conversion has not yet expired."
+  },
+  {
+    "Arabic Sentence": "§69§ للجمعية العامة غير العادية في جميع الأحوال أن تخصص الأسهم المصدرة عند زيادة رأس المال أو جزءًا منها للعاملين في الشركة والشركات التابعة أو بعضها.",
+    "English Sentence": "§85§ In all cases, the extraordinary general assembly may, upon increasing the capital of the company, allocate issued shares or part thereof to the employees of the company or any of its subsidiaries."
+  },
+  {
+    "Arabic Sentence": "§70§ ولا يجوز للمساهمين ممارسة حق الأولوية عند إصدار الشركة الأسهم المخصصة للعاملين.",
+    "English Sentence": "§86§ Shareholders may not exercise their preemptive rights on issued shares allocated for employees."
+  },
+  {
+    "Arabic Sentence": "§71§ وللجهة المختصة وضع ضوابط وإجراءات تخصيص الأسهم للعاملين في الشركة أو في الشركات التابعة أو بعضها، أو أيٍ من ذلك.",
+    "English Sentence": "§87§ The Competent Authority may set the rules and procedures for allocating shares to the employees of the company or any of its subsidiaries."
+  },
+  {
+    "Arabic Sentence": "§72§ في جميع الأحوال، يجب أن تكون القيمة الاسمية لأسهم الزيادة مساوية للقيمة الاسمية للأسهم الأصلية من ذات النوع أو الفئة.",
+    "English Sentence": "§88§ In all cases, the nominal value of the new shares shall be equal to the nominal value of the original shares of the same type or class."
+  },
+  {
+    "Arabic Sentence": "§73§ للمساهم مالك السهم - وقت صدور قرار الجمعية العامة غير العادية بالموافقة على زيادة رأس المال المصدر أو قرار مجلس الإدارة بالموافقة على زيادته في حدود رأس المال المصرح به - الأولوية في الاكتتاب بالأسهم الجديدة التي تصدر مقابل حصص نقدية، ويبلغ بأولويته - إن وجدت - بخطاب مسجل على عنوانه الوارد في سجل المساهمين، أو من خلال وسائل التقنية الحديثة، وبقرار زيادة رأس المال وشروط الاكتتاب وكيفيته وتاريخ بدايته وانتهائه، وذلك بالمراعاة لنوع فئة السهم الذي يملكه.",
+    "English Sentence": "§89§ A shareholder who owns the share on the date of issuance of the extraordinary general assembly’s decision approving the increase of issued capital or the date of issuance of the board of directors’ decision approving the increase of issued capital within the limit of the authorized capital shall have a preemptive right to subscribe to new shares issued against cash contributions.§90§ A shareholder shall be notified of such right, if any, by registered mail sent to the address stated in the shareholders’ register or by any means of technology.§91§ The shareholder shall also be notified of the capital increase decision, the conditions and method of subscription, and the dates on which said subscription begins and ends, subject to the type and class of shares owned by him."
+  },
+  {
+    "Arabic Sentence": "§74§ يحق للجمعية العامة غير العادية - إذا نص على ذلك في نظام الشركة الأساس - وقف العمل بحق الأولوية للمساهمين في الاكتتاب بزيادة رأس المال مقابل حصص نقدية أو منح حق الأولوية لغير المساهمين في الحالات التي تراها محققة لمصلحة الشركة.",
+    "English Sentence": "§92§ The extraordinary general assembly may, if provided for in the company’s articles of association, suspend the preemptive rights of shareholders to subscribe to the capital increase against cash contributions or may grant such rights to non-shareholders in cases it deems beneficial to the company."
+  },
+  {
+    "Arabic Sentence": "§75§ للمساهم في شركة المساهمة بيع حق الأولوية أو التنازل عنه بمقابل مادي أو دون مقابل وفقاً لما تحدده اللوائح.",
+    "English Sentence": "§93§ A shareholder in a joint-stock company may, subject to the Regulations, sell or assign his preemptive rights with or without financial consideration."
+  },
+  {
+    "Arabic Sentence": "§76§ توزع الأسهم الجديدة على حملة حقوق الأولوية الذين طلبوا الاكتتاب بنسبة ما لديهم من حقوق أولوية من إجمالي هذه الحقوق الناتجة عن زيادة رأس المال، بشرط ألا يتجاوز ما يحصلون عليه ما طلبوه من الأسهم الجديدة وبالمراعاة لنوع وفئة السهم الذي يملكونه، ويوزعُ الباقي من الأسهم الجديدة على أصحاب حقوق الأولوية الذين طلبوا أكثر من نصيبهم بنسبة ما لديهم من حقوق أولوية من إجمالي هذه الحقوق الناتجة عن زيادة رأس المال، بشرط ألا يتجاوز ما يحصلون عليه ما طلبوه من الأسهم الجديدة، ويطرحُ ما تبقى من الأسهم على الغير، ما لم تقرر الجمعية العامة غير العادية أو ينص نظام السوق المالية على غير ذلك.",
+    "English Sentence": "§94§ Newly issued shares shall be distributed to the holders of preemptive rights requesting subscription in proportion to the preemptive rights they have against the total preemptive rights resulting from the capital increase, provided that the number of newly issued shares they receive does not exceed the number of shares they request, taking into consideration the type and class of their shares.§95§ The remaining new shares shall be distributed to the holders of the preemptive rights who request more than their share in proportion to the preemptive rights they have against the total preemptive rights resulting from the capital increase, provided that the number of newly issued shares they receive does not exceed the number of shares they request.§96§ Any remaining shares shall be offered to other than the holders of preemptive rights, unless the extraordinary general assembly or the Capital Market Law stipulates otherwise."
+  },
+  {
+    "Arabic Sentence": "§77§ إذا بلغت خسائر شركة المساهمة (نصف) رأس المال المصدر، وجب على مجلس الإدارة الإفصاح عن ذلك وعما توصل إليه من توصيات بشأن تلك الخسائر خلال (ستين) يومًا من تاريخ علمه ببلوغها هذا المقدار، ودعوة الجمعية العامة غير العادية إلى الاجتماع خلال (مئة وثمانين) يومًا من تاريخ العلم بذلك للنظر في استمرار الشركة مع اتخاذ أي من الإجراءات اللازمة لمعالجة تلك الخسائر، أو حلها.",
+    "English Sentence": "§97§ If the losses of a joint-stock company amount to half of the issued capital, the board of directors shall, within 60 days from the date of its knowledge thereof, announce the losses and the recommendations relating thereto, and shall, within 180 days from said date, call for an extraordinary general assembly meeting to consider the continuation of the company by taking measures necessary to resolve such losses or the dissolution of the company."
+  },
+  {
+    "Arabic Sentence": "§78§ يُخفض رأس المال بإحدى الطرق الآتية:",
+    "English Sentence": "§98§ Capital shall be decreased by any of the following methods:"
+  },
+  {
+    "Arabic Sentence": "§79§ إلغاء عدد من الأسهم يعادل القدر المطلوب تخفيضه.",
+    "English Sentence": "§99§ Cancellation of a number of shares equal to the amount to be decreased."
+  },
+  {
+    "Arabic Sentence": "§80§ تخفيض القيمة الاسمية للسهم بإلغاء جزءٍ منها يعادل الخسارة التي لحقت الشركة.",
+    "English Sentence": "§100§ Reduction of the nominal value of a share by canceling a part thereof equal to the amount of losses incurred by the company."
+  },
+  {
+    "Arabic Sentence": "§81§ تخفيض القيمة الاسمية للسهم برد جزءٍ منها إلى المساهم أو بإبراء ذمته من كل أو بعض القدر غير المدفوع من قيمة السهم.",
+    "English Sentence": "§101§ Reduction of the nominal value of a share by returning a part thereof to the shareholder or relieving him from all or part of the unpaid amount of the share’s value."
+  },
+  {
+    "Arabic Sentence": "§82§ شراء الشركة عددًا من أسهمها يعادل القدر المطلوب تخفيضه، ومن ثم إلغاءها.",
+    "English Sentence": "§102§ The company’s purchase of a number of its shares equal to the amount to be decreased, and the cancellation of such shares thereafter."
+  },
+  {
+    "Arabic Sentence": "§83§ للجمعية العامة غير العادية أن تقرر تخفيض رأس المال إذا زاد على حاجة الشركة أو إذا مُنيت الشركة بخسائر.",
+    "English Sentence": "§103§ The extraordinary general assembly may decide to decrease the capital if it exceeds the company’s needs or if the company incurs losses."
+  },
+  {
+    "Arabic Sentence": "§84§ ويجوز في الحالة الأخيرة وحدها تخفيض رأس المال إلى ما دون الحد الوارد في المادة (التاسعة والخمسين) من النظام.",
+    "English Sentence": "§104§ In case of losses, the capital may be decreased below the limit specified in Article 59 of this Law."
+  },
+  {
+    "Arabic Sentence": "§85§ ولا يصدر قرار التخفيض إلا بعد تلاوة بيان في الجمعية العامة يعده مجلس الإدارة عن الأسباب الموجبة للتخفيض والتزامات الشركة وأثر التخفيض في الوفاء بها، ويُرفق بهذا البيان تقرير من مراجع حسابات الشركة.",
+    "English Sentence": "§105§ The decision to decrease the capital shall not be issued until a statement prepared by the board of directors stating the grounds for such decrease, the company’s liabilities, and the effect of the decrease on satisfying such liabilities is presented at the general assembly.§106§ Said statement shall include the report of the company's auditor, and may be presented to shareholders in cases where the general assembly decision is passed by circulation."
+  },
+  {
+    "Arabic Sentence": "§86§ ويجوز الاكتفاء بعرض البيان المذكور على المساهمين في الحالات التي يصدر فيها قرار الجمعية العامة بالتمرير.",
+    "English Sentence": "§106§ Said statement shall include the report of the company's auditor, and may be presented to shareholders in cases where the general assembly decision is passed by circulation."
+  },
+  {
+    "Arabic Sentence": "§87§ إذا كان تخفيض رأس المال نتيجة زيادته على حاجة الشركة، وجبت دعوة الدائنين إلى إبداء اعتراضاتهم -إن وجدت – على التخفيض قبل (خمسة وأربعين) يومًا على الأقل من التاريخ المحدد لعقد اجتماع الجمعية العامة غير العادية لاتخاذ قرار التخفيض، على أن يرفق بالدعوة بيان يوضح مقدار رأس المال قبل التخفيض وبعده، وموعد عقد الاجتماع وتاريخ نفاذ التخفيض، فإن اعترض على التخفيض أي من الدائنين وقدم إلى الشركة مستنداته في الموعد المذكور، وجب على الشركة أن تؤدي إليه دينه إذا كان حالاً أو أن تقدم إليه ضمانًا كافيًا للوفاء به إذا كان آجلاً.",
+    "English Sentence": "§107§ If the decision to decrease the capital is because it exceeds the company’s needs, the creditors shall be invited to submit their objections to the decrease, if any, at least 45 days prior to the date set for the extraordinary general assembly meeting to decide on the decrease.§108§ The invitation shall include a statement indicating the amount of capital prior to and after the decrease, the date of the meeting, and the date the decrease becomes effective.§109§ If a creditor objects to the decrease and submits supporting documents to the company within the specified period, the company shall pay the debt owed to him if it is due or provide him with a sufficient guarantee if it is not due."
+  },
+  {
+    "Arabic Sentence": "§88§ وللدائن الذي أخطر الشركة باعتراضه على التخفيض ولم يتم الوفاء بدينه إذا كان حالاً، أو تقديم ضمان كافٍ للوفاء به إذا كان آجلاً، أن يتقدم إلى الجهة القضائية المختصة قبل التاريخ المحدد لعقد الجمعية العامة غير العادية لاتخاذ قرار التخفيض، ويكون للجهة القضائية المختصة في هذه الحالة أن تأمر بالوفاء بالدين أو بتقديم ضمان كافٍ أو تأجيل عقد اجتماع الجمعية العامة غير العادية بحسب الأحوال.",
+    "English Sentence": "§110§ If a creditor notifies the company of his objection to the decrease and the company fails to pay his due debt or to provide him with a sufficient guarantee if his debt is not due, he may petition the competent judicial authority prior to the date set for deciding on the decrease in the extraordinary general assembly meeting.§111§ The competent judicial authority may, in such case, order the payment of the debt, the provision of a sufficient guarantee, or the adjournment of the extraordinary general assembly meeting, as the case may be."
+  },
+  {
+    "Arabic Sentence": "§89§ لا يحتج بالتخفيض قِبَل الدائن الذي قدم طلبه في الموعد المنصوص عليه في الفقرة (١) من هذه المادة إلا إذا استوفى ما حلّ من دينه أو حصل على الضمان الكافي للوفاء بما لم يحلّ منه.",
+    "English Sentence": "§112§ Capital decrease shall not be invoked against a creditor who has submitted his application on the date stipulated in paragraph (1) of this Article, unless his due debt is paid or he is provided with a sufficient guarantee for undue amounts."
+  },
+  {
+    "Arabic Sentence": "§90§ يجب مراعاة المساواة بين المساهمين الحاملين أسهماً من ذات النوع والفئة عند تخفيض رأس المال.",
+    "English Sentence": "§113§ Equality among holders of shares of the same type and class shall be observed upon the decrease of capital."
+  },
+  {
+    "Arabic Sentence": "§91§ إذا كان تخفيض رأس المال عن طريق شراء عدد من أسهم الشركة من أجل إلغائها، وجبت دعوة المساهمين إلى عرض أسهمهم للبيع، وذلك بإبلاغهم برغبة الشركة في شراء الأسهم بخطابات مسجلة على عناوينهم الواردة في سجل المساهمين، أو بالإعلان عن الدعوة من خلال وسائل التقنية الحديثة.",
+    "English Sentence": "§114§ If the company’s capital is decreased by purchasing a number of its shares for the purpose of canceling them, shareholders shall be invited to offer their shares for sale.§115§ They shall be notified of the company’s intent to purchase shares by registered mail sent to the addresses registered in the shareholders’ register or by announcing such invitation through means of technology."
+  },
+  {
+    "Arabic Sentence": "§92§ إذا زاد عدد الأسهم المعروضة للبيع على العدد الذي قررت الشركة شراءه، وجب تخفيض طلبات البيع بنسبة هذه الزيادة.",
+    "English Sentence": "§116§ If the number of shares offered for sale exceeds the number of shares the company decides to purchase, the sale orders shall be reduced in proportion to such increase."
+  },
+  {
+    "Arabic Sentence": "§93§ يُقدّر ثمن شراء أسهم شركات المساهمة غير المدرجة في السوق المالية وفقاً للقيمة العادلة، أما أسهم شركات المساهمة المدرجة فتُشترى وفقاً لنظام السوق المالية.",
+    "English Sentence": "§117§ The purchase price of the shares of unlisted joint-stock companies shall be estimated at fair value.§118§ However, the shares of listed joint-stock companies shall be purchased in accordance with the Capital Market Law."
+  },
+  {
+    "Arabic Sentence": "§94§ تسري على شركة المساهمة المبسطة فيما لم يرد به نص خاص في هذا الباب، وما يتفق مع طبيعتها، أحكام شركة المساهمة عند المواد: (الحادية والستين)، و(الثالثة والستين)، ومن (السابعة والستين) إلى (الحادية والسبعين)، ومن (الرابعة والسبعين) إلى (الثامنة والثمانين)، ومن (التسعين) إلى (الرابعة والتسعين)، و(الخامسة والتسعين/1)، ومن (السادسة والتسعين) إلى (الثامنة والتسعين)، و(المائة)، و(الأولى بعد المائة)، و(الحادية عشرة بعد المائة/2)، و(الحادية والعشرين بعد المائة)، و(الثانية والعشرين بعد المائة).",
+    "English Sentence": "§119§ Absent a specific provision in this Part, a simplified joint-stock company shall, according to its nature, be subject to the provisions of a joint-stock company, excluding Articles 61, 63, 67-71, 74-88, 90-94, 95(1), 96-98, 100, 101, 111(2), 121, and 122."
+  },
+  {
+    "Arabic Sentence": "§95§ للمساهمين في شركة المساهمة المبسطة تنظيم هيكلة الشركة وطريقة عملها، وذلك في نظام الشركة الأساس.",
+    "English Sentence": "§120§ The shareholders of a simplified joint-stock company may, in the company’s articles of association, regulate the company’s structure and work procedures."
+  },
+  {
+    "Arabic Sentence": "§96§ يحل المساهمون محل الجمعية العامة العادية وغير العادية لشركة المساهمة، وذلك في نطاق الأحكام التي تسري على شركة المساهمة المبسطة.",
+    "English Sentence": "§121§ Shareholders shall, with regards to provisions applicable to simplified joint- stock companies, assume the legal capacity of the ordinary and extraordinary general assemblies of joint-stock companies."
+  },
+  {
+    "Arabic Sentence": "§97§ والمساهمين تحديد من يتولى تلك الاختصاصات في نظام الشركة الأساس وذلك فيما لم يرد به نص خاص في هذا الباب.",
+    "English Sentence": "§122§ Absent a specific provision in this Part, shareholders may, in the company’s articles of association, designate a person to assume the powers of the general assembly."
+  },
+  {
+    "Arabic Sentence": "§98§ يمارس رئيس شركة المساهمة المبسطة أو مديرها أو مجلس إدارتها، بحسب الأحوال، جميع الاختصاصات المقررة لرئيس وأعضاء مجلس إدارة شركة المساهمة ويحلون محلهم، وذلك فيما لم يرد به نص خاص في هذا الباب.",
+    "English Sentence": "§123§ Absent a specific provision in this Part, a simplified joint-stock company’s president, manager, or board of directors, as the case may be, shall exercise all the powers assigned to the chairman and members of the board of directors of a joint-stock company and assume their legal capacity."
+  },
+  {
+    "Arabic Sentence": "§99§ يُحدد في نظام الشركة الأساس مقدار رأس مالها المُصدر وقيمة المدفوع منه، ويجوز أن يُنص فيه على أن يكون هذا رأس مال مصرح به.",
+    "English Sentence": "§124§ The company's articles of association shall specify its issued and paid-up capital; it may stipulate that the company has authorized capital."
+  },
+  {
+    "Arabic Sentence": "§100§ لا يسري متطلب الحد الأدنى لرأس المال المقرر لشركة المساهمة على شركة المساهمة المبسطة.",
+    "English Sentence": "§125§ The minimum capital requirement of a joint-stock company shall not apply to a simplified joint-stock company."
+  },
+  {
+    "Arabic Sentence": "§101§ يجب أن يشتمل النظام الأساس لشركة المساهمة المبسطة بصفة خاصة على البيانات الآتية:",
+    "English Sentence": "§126§ The following information shall be included in the articles of association of a simplified joint-stock company:"
+  },
+  {
+    "Arabic Sentence": "§102§ اسم الشركة.",
+    "English Sentence": "§127§ Company’s name."
+  },
+  {
+    "Arabic Sentence": "§103§ المركز الرئيس للشركة.",
+    "English Sentence": "§128§ Company’s headquarters."
+  },
+  {
+    "Arabic Sentence": "§104§ غرض الشركة.",
+    "English Sentence": "§129§ Company’s purpose."
+  },
+  {
+    "Arabic Sentence": "§105§ رأس مال الشركة المصدر به -إن وُجد-، والمصدر والمدفوع منه.",
+    "English Sentence": "§130§ Company’s authorized capital, if any, and its issued and paid-up capital."
+  },
+  {
+    "Arabic Sentence": "§106§ عدد الأسهم، وأنواعها وفئاتها إن وُجدت، والقيمة الاسمية، والحقوق المتصلة بكل نوع أو فئة.",
+    "English Sentence": "§131§ Number of shares; their types and classes, if any; their nominal value; and the rights associated with each type or class."
+  },
+  {
+    "Arabic Sentence": "§107§ مدة الشركة، إن وُجدت.",
+    "English Sentence": "§132§ Company’s term, if any."
+  },
+  {
+    "Arabic Sentence": "§108§ إدارة الشركة والأحكام الخاصة بذلك.",
+    "English Sentence": "§133§ Company’s management and provisions related thereto."
+  },
+  {
+    "Arabic Sentence": "§109§ التنازل عن الأسهم.",
+    "English Sentence": "§134§ Assignment of shares."
+  },
+  {
+    "Arabic Sentence": "§110§ اجتماعات المساهمين، والنصاب اللازم لصحتها.",
+    "English Sentence": "§135§ Shareholder meetings and the quorum required for their validity."
+  },
+  {
+    "Arabic Sentence": "§111§ قرارات المساهمين، والنصاب اللازم لصدورها.",
+    "English Sentence": "§136§ Issuance of shareholder decisions and the quorum required for their issuance."
+  },
+  {
+    "Arabic Sentence": "§112§ تاريخ بدء السنة المالية وانتهائها.",
+    "English Sentence": "§137§ Dates on which the company’s fiscal year commences and ends."
+  },
+  {
+    "Arabic Sentence": "§113§ أي أحكام أو شروط أو بيانات أخرى يتفق المؤسسون أو المساهمون على تضمينها في نظام الشركة الأساس ولا تتعارض مع أحكام النظام.",
+    "English Sentence": "§138§ Any other terms, conditions, or information the incorporators or shareholders agree to include in the company’s articles of association that are not inconsistent with the provisions of this Law."
+  },
+  {
+    "Arabic Sentence": "§114§ يجب أن يُرفق بالنظام الأساس عند تقديم طلب تأسيس الشركة الآتي:",
+    "English Sentence": "§139§ The following shall be enclosed with the company's articles of association upon submission of its incorporation application:"
+  },
+  {
+    "Arabic Sentence": "§115§ أسماء المؤسسين، وعناوينهم، وجنسياتهم.",
+    "English Sentence": "§140§ Incorporators’ names, addresses, and nationalities."
+  },
+  {
+    "Arabic Sentence": "§116§ بيان عن الأعمال والنفقات المتوقعة لتأسيس الشركة.",
+    "English Sentence": "§141§ Statement of projected works and expenses for incorporating the company."
+  },
+  {
+    "Arabic Sentence": "§117§ إقرار المؤسسين بالاكتتاب بكل أسهم الشركة، وقيمة المدفوع منها.",
+    "English Sentence": "§142§ An acknowledgment by the incorporators that the company’s shares are fully subscribed, and a statement of the value of paid-up shares."
+  },
+  {
+    "Arabic Sentence": "§118§ شهادة إيداع القدر المدفوع من رأس المال المصدر لدى أحد البنوك المرخص لها في المملكة.",
+    "English Sentence": "§143§ A certificate of the amount of paid-up capital issued by a bank licensed to operate in the Kingdom."
+  },
+  {
+    "Arabic Sentence": "§119§ قرار من المؤسسين بتعيين رئيس الشركة أو مديرها أو مجلس إدارتها، بحسب الأحوال، متضمناً أسماءهم وجنسياتهم، وعناوينهم، وتواريخ ميلادهم.",
+    "English Sentence": "§144§ Incorporators’ decision appointing the company’s president, manager, or board of directors, as the case may be, stating their names, nationalities, addresses, and dates of birth."
+  },
+  {
+    "Arabic Sentence": "§120§ إقرار المؤسسين بالالتزام بجميع متطلبات النظام ذات الصلة بتأسيس الشركة.",
+    "English Sentence": "§145§ An acknowledgment by the incorporators to satisfy all the requirements provided for in this Law which relate to the incorporation of the company."
+  },
+  {
+    "Arabic Sentence": "§121§ بيان أو تقرير معد من مقيم معتمد إذا يُبين فيه القيمة العادلة للحصص العينية (إن وجدت)، وإقرارٌ من باقي المؤسسين بالموافقة على المقابل المحدد لها.",
+    "English Sentence": "§146§ A statement or report prepared by an accredited valuer or more indicating the fair value of in-kind contributions, if any, and a statement by the incorporators approving the consideration for such contributions."
+  },
+  {
+    "Arabic Sentence": "§122§ إذا قُدمت حصص عينية عند تأسيس الشركة أو عند زيادة رأس مالها لا يتجاوز مجموع قيمتها )نصف( رأس مال الشركة، فلا يجب تقييمها من خبير معتمد، ما لم يتفق المؤسسون أو المساهمون على غير ذلك.",
+    "English Sentence": "§147§ If the total value of in-kind contributions provided upon the incorporation of the company or upon the increase of its capital does not exceed half of the company’s capital, the valuation of said contributions by an accredited valuer shall not be required, unless the incorporators or shareholders agree otherwise."
+  },
+  {
+    "Arabic Sentence": "§123§ إذا تجاوزت قيمة الحصص العينية المقدمة عند تأسيس الشركة أو زيادة رأس مالها (نصف) رأس مالها، وجب تقييمها من مقيم معتمد أو أكثر، وأن يعد المقيم تقريراً يبين فيه القيمة العادلة لهذه الحصص، ويعرض ذلك التقرير على المؤسسين أو المساهمين، للمداولة فيه، ولا يكون لمقدمي الحصص العينية المشاركة في التصويت على القرار بشأن التقرير المعد عنها، فإن قرر المؤسسون أو المساهمون تخفيض المقابل المحدد للحصص العينية، وجب الحصول على موافقة مقدمي تلك الحصص على ذلك التخفيض.",
+    "English Sentence": "§148§ If the value of in-kind contributions provided upon the incorporation of the company or upon the increase of its capital exceeds half of the company’s capital, said contributions must be valuated by an accredited valuer, or more, who shall prepare a report indicating the fair value of the contributions.§149§ Such report shall be presented to the incorporators or shareholders for deliberation.§150§ Providers of in-kind contributions may not vote on the decision relating to said report.§151§ If the incorporators or shareholders decide to reduce the value of in-kind contributions specified in the report, such reduction must be approved by the providers of said contributions."
+  },
+  {
+    "Arabic Sentence": "§124§ يشترط ألا تتجاوز المدة ما بين إصدار تقرير المقيم المعتمد بتقدير القيمة العادلة للحصص العينية، وإصدار الأسهم مقابل تلك الحصص، المدة التي تُحددها اللوائح.",
+    "English Sentence": "§152§ The period between the issuance of the accredited valuer’s report on the fair value of in-kind contributions and the issuance of shares in exchange for said contributions shall not exceed the period prescribed by the Regulations."
+  },
+  {
+    "Arabic Sentence": "§125§ إذا لم تُقيّم الحصص العينية من مُقيّم معتمد وَفقًا لحكم هذه المادة أو إذا قُيّمت بغير تقدير المُقيّم المعتمد المُعين، يكون المؤسسون أو المساهمون مسؤولين شخصيًّا في جميع أموالهم في مواجهة الغير عن عدالة تقدير هذه الحصص وأداء الفرق نقدًا إلى الشركة.",
+    "English Sentence": "§153§ If the in-kind contributions are not valuated by an accredited valuer as provided for in this Article, or if said contributions are valuated at a value other than the value provided by the appointed accredited valuer, the incorporators or shareholders shall be personally liable against third parties for the fairness of the valuation of the in-kind contributions, and they shall pay the difference in cash to the company."
+  },
+  {
+    "Arabic Sentence": "§126§ ولا تُسمع الدعوى في هذه الحالة بعد انقضاء (خمس) سنوات من تاريخ قيد الشركة لدى السجل التجاري أو زيادة رأس مالها بحسب الأحوال.",
+    "English Sentence": "§154§ In such case, a derivative action shall not be heard after the lapse of five years from the date of the company’s registration with the Commercial Register or from the date of its capital increase, as the case may be."
+  },
+  {
+    "Arabic Sentence": "§127§ تُحدد طريقة إدارة شركة المساهمة المبسطة في نظامها الأساس، ويجوز أن يتولى إدارتها رئيس أو مدير أو أكثر أو مجلس إدارة أو غير ذلك، ويُبيّن في نظام الشركة الأساس طريقة تعيين من يتولى إدارتها، وعزله، وحدود سلطاته وصلاحياته وطريقة عمله، وإذا خلا نظام الشركة الأساس من أحكامٍ بهذا الخصوص، تولى المساهمون ذلك.",
+    "English Sentence": "§155§ The method of managing a simplified joint-stock company shall be specified in its articles of association.§156§ The company may be managed by one or more presidents or managers or by a board of directors or any other form of management.§157§ The company's articles of association shall specify the manner of appointing and removing whomever is tasked with managing the company as well as the powers, authorities, and work procedures thereof.§158§ If the company's articles of association do not provide for any provisions in this regard, such provisions shall be determined by shareholders."
+  },
+  {
+    "Arabic Sentence": "§128§ يكون لرئيس شركة المساهمة المبسطة أو مديرها أو مجلس إدارتها –بحسب الأحوال– أوسع السلطات في إدارة الشركة بما يحقق أغراضها، وذلك فيما عدا ما استثني بنص خاص في النظام أو نظام الشركة الأساس من أعمال أو تصرفات تدخل في اختصاص المساهمين، ويكون للرئيس أو للمدير –في حدود اختصاصاته– أن يُفوّض الغير في مباشرة عمل معين أو أكثر، ولمجلس الإدارة –في حدود اختصاصاته– أن يُفوّض واحداً أو أكثر من أعضائه أو من الغير في مباشرة عمل معين أو أكثر.",
+    "English Sentence": "§159§ A simplified joint-stock company’s president, manager, or board of directors, as the case may be, shall have all the powers necessary to manage the company in a manner that achieves its purposes, excluding acts and dispositions entrusted to shareholders pursuant to a special provision in this Law or the company’s articles of association.§160§ The company’s president or manager may, within his powers, delegate others to perform certain acts.§161§ The board of directors may, within its powers, authorize one or more of its members or others to perform certain acts."
+  },
+  {
+    "Arabic Sentence": "§129§ يمثّل رئيس شركة المساهمة المبسطة أو مديرها أو رئيس مجلس إدارتها –بحسب الأحوال– الشركة أمام القضاء وهيئات التحكيم والغير، ويجوز أن يفوض غيره في تمثيلها إذا نص نظامها الأساس على ذلك.",
+    "English Sentence": "§162§ A simplified joint-stock company’s president, manager, or chairman of the board of directors, as the case may be, shall represent the company before the judiciary, arbitration tribunals, and other parties; he may, however, delegate others to represent the company if the company’s articles of association provide therefor."
+  },
+  {
+    "Arabic Sentence": "§130§ تلتزم شركة المساهمة المبسطة بجميع الأعمال والتصرفات التي يجريها الرئيس أو المدير أو مجلس الإدارة –بحسب الأحوال– باسمها ولو كانت خارج اختصاصاته، إلا إذا كان من تعامل معه سيئ النية أو كان يعلم أن تلك الأعمال والتصرفات خارج اختصاصاته.",
+    "English Sentence": "§163§ A simplified joint-stock company shall be bound by all the acts and dispositions performed in its name by its president, manager, or board of directors, as the case may be, even if said acts and dispositions are beyond the powers thereof, unless such acts and dispositions involve a party who acts in bad faith or a party who knows that such acts and dispositions are beyond the powers of the same."
+  },
+  {
+    "Arabic Sentence": "§131§ تسري الأحكام الخاصة بمسؤولية مجلس إدارة شركة المساهمة على رئيس شركة المساهمة المبسطة أو مديرها أو مجلس إدارتها بحسب الأحوال.",
+    "English Sentence": "§164§ Provisions relating to the liability of the board of directors of a joint-stock company shall apply to a simplified joint-stock company’s president, manager, or board of directors, as the case may be."
+  },
+  {
+    "Arabic Sentence": "§132§ يسري حكم المادة (الثانية والسبعين) من النظام على رئيس شركة المساهمة المبسطة أو مديرها أو مجلس إدارتها بحسب الأحوال.",
+    "English Sentence": "§165§ The provision of Article 72 of this Law shall apply to a simplified joint-stock company’s president, manager, or board of directors, as the case may be."
+  },
+  {
+    "Arabic Sentence": "§133§ يُحدد في النظام الأساسي لشركة المساهمة المبسطة المسائل التي يجب عرضها على المساهمين لاتخاذ قرار بشأنها، وذلك بالشكل والشروط المحددة في النظام المذكور.",
+    "English Sentence": "§166§ The articles of association of a simplified joint-stock company shall specify the matters to be decided by shareholders and the manner and conditions for deciding on such matters."
+  },
+  {
+    "Arabic Sentence": "§134§ ومع ذلك، يجب أن يتخذ من المساهمين القرارات الداخلة في اختصاصات الجمعية العامة العادية أو غير العادية لشركة المساهمة فيما يتعلق بزيادة رأس المال أو تخفيضه أو تحول الشركة إلى شكل آخر أو اندماجها أو تقسيمها أو حلها أو تعيين مراجع الحسابات أو مناقشة القوائم المالية أو توزيع الأرباح أو تعديل نظام الشركة الأساسي.",
+    "English Sentence": "§167§ However, shareholders shall decide matters that fall within the powers of a joint-stock company’s ordinary or extraordinary general assembly, which relate to the increase or decrease of capital; conversion of the company into another form of company, or the merger, division, or dissolution thereof; appointment of an auditor; discussion of financial statements; distribution of dividends; or amendment of the company’s articles of association."
+  },
+  {
+    "Arabic Sentence": "§135§ يُحدد في نظام الشركة الأساس النصاب اللازم لصحة اجتماعات المساهمين وصدور قراراتها.",
+    "English Sentence": "§168§ The company’s articles of association shall specify the quorum necessary for the validity of shareholder meetings and decisions."
+  },
+  {
+    "Arabic Sentence": "§136§ يجوز أن يُحدد في نظام الشركة الأساس أنصبة مختلفة لمسائل معينة عند عرضها على المساهمين، واتخاذ القرار بشأنها.",
+    "English Sentence": "§169§ The company's articles of association may specify different quorums for presenting matters to shareholders and for deciding on such matters."
+  },
+  {
+    "Arabic Sentence": "§137§ يُحدد في نظام الشركة الأساس المسائل التي يتعين لإصدار قرار بشأنها موافقة المساهمين بالإجماع.",
+    "English Sentence": "§170§ The company's articles of association shall specify the matters which require the unanimous approval of shareholders."
+  },
+  {
+    "Arabic Sentence": "§138§ مع مراعاة نظام الشركة الأساس، تُعقد اجتماعات المساهمين في شركة المساهمة المبسطة بدعوة من رئيسها أو مديرها أو مجلس إدارتها بحسب الأحوال وفقًا للأوضاع التي يحددها نظام الشركة الأساس.",
+    "English Sentence": "§171§ Subject to the company’s articles of association, shareholder meetings of a simplified joint-stock company shall be held upon a call by its president, manager, or board of directors, as the case may be, in accordance with the conditions specified in the company’s articles of association."
+  },
+  {
+    "Arabic Sentence": "§139§ وتَجوز الدعوة لاجتماع المساهمين بناءً على طلب مراجع الحسابات إن وجد، أو مساهم أو أكثر يمثلون (عشرة في المائة) من أسهم الشركة التي لها حقوق تصويت على الأقل.",
+    "English Sentence": "§172§ A shareholder meeting may be called for if requested by the auditor, if any, or by a shareholder, or more, representing at least 10% of the company’s voting shares."
+  },
+  {
+    "Arabic Sentence": "§140§ توجه الدعوة إلى الاجتماع إلى جميع المساهمين قبل الميعاد المحدد له (بخمسة) أيام على الأقل، متضمنة مكان عقد الاجتماع وتاريخه وموعده، ويرفق بها جدول الأعمال متضمنًا البنود المطلوب تصويت المساهمين عليها.",
+    "English Sentence": "§173§ The meeting invitation shall be sent to all shareholders at least five days prior to the date set for the meeting.§174§ The invitation shall specify the meeting venue, date, and time and shall include the meeting agenda and the items that require a vote by shareholders."
+  },
+  {
+    "Arabic Sentence": "§141§ ويجوز أن يحدد في الدعوة مكان عقد الاجتماع الثاني وتاريخه وموعده، في حال لم يتوافر النصاب اللازم لعقد الاجتماع الأول.",
+    "English Sentence": "§175§ The invitation may specify the venue, date, and time for a second meeting if the quorum required for holding the first meeting is not met."
+  },
+  {
+    "Arabic Sentence": "§142§ يُبلّغ المساهمون بالدعوة بخطابات مسجلة تُرسل على عناوينهم الواردة في سجل المساهمين، أو من خلال وسائل التقنية الحديثة، ما لم ينص في نظام الشركة الأساس على غير ذلك.",
+    "English Sentence": "§176§ Shareholders shall be notified of the meeting by registered mail sent to the addresses provided for in the shareholders’ register, or through means of technology, unless the company’s articles of association stipulate otherwise."
+  },
+  {
+    "Arabic Sentence": "§143§ إذا وُجِّهت الدعوة إلى اجتماع المساهمين للنظر في المسائل المنصوص عليها في الفقرة (1) من المادة (الخامسة والأربعين بعد المائة) من النظام، كان لكل مساهم الحق في الحصول والاطلاع على المعلومات والوثائق المتعلقة بها، وذلك في أي وقت خلال (الخمسة) أيام السابقة للتاريخ المحدد لعقد الاجتماع، ما لم ينص نظام الشركة الأساس على مدة أطول.",
+    "English Sentence": "§177§ If shareholders are called for a meeting to consider matters provided for in Article 145(1) of this Law, each shareholder shall have the right to access and review the information and documents related to such matters at any time during the five days prior to the date set for the meeting, unless the company's articles of association specify a longer period."
+  },
+  {
+    "Arabic Sentence": "§144§ تعقد اجتماعات المساهمين في مركز الشركة الرئيس أو أي مكان آخر يحددونه، ويجوز عقدها عبر وسائل التقنية الحديثة.",
+    "English Sentence": "§178§ Shareholder meetings shall be held at the company's headquarters or at any other location determined by the shareholders; such meetings may be held remotely."
+  },
+  {
+    "Arabic Sentence": "§145§ يجوز للمساهمين الذين يمثلون جميع أسهم الشركة التي لها حقوق تصويت أن يعقدوا اجتماعهم دون مراعاة للأوضاع والمدد المقررة للدعوة.",
+    "English Sentence": "§179§ Shareholders representing all of the company's voting shares may hold their meetings without observing the conditions and periods prescribed for the call."
+  },
+  {
+    "Arabic Sentence": "§146§ يجب على رئيس شركة المساهمة المبسطة أو مديرها أو مجلس إدارتها -حسب الأحوال- في نهاية كل سنة مالية للشركة، أن يعد القوائم المالية للشركة وتقريراً عن نشاطها ومركزها المالي عن السنة المالية المنقضية، ويضمّن هذا التقرير الطريقة المقترحة لتوزيع الأرباح إن وجدت.",
+    "English Sentence": "§180§ At the end of the company’s fiscal year, a simplified joint-stock company’s president, manager, or board of directors, as the case may be, shall prepare the company’s financial statements as well as a report on its activities and financial position for the ending fiscal year.§181§ The report shall include a proposal on the manner of distributing dividends, if any."
+  },
+  {
+    "Arabic Sentence": "§147§ وتعرض هذه الوثائق وتقرير مراجع الحسابات، إن وجد، على المساهمين، وذلك خلال (ستة) أشهر من تاريخ انتهاء السنة المالية للشركة، وعليه إيداع هذه الوثائق وفقاً لما تحدده اللوائح.",
+    "English Sentence": "§182§ Such documents and the auditor's report, if any, shall be presented to the shareholders within six months from the date on which the company's fiscal year ends.§183§ The president, manager, or board of directors, as the case may be, shall deposit said documents as determined by the Regulations."
+  },
+  {
+    "Arabic Sentence": "§148§ تثبت مداولات اجتماع المساهمين وقراراتهم أو القرارات التي تصدر بالتمرير، في محاضر تدون في سجل خاص يوقعه رئيس الشركة أو مديرها أو مجلس إدارتها بحسب الأحوال.",
+    "English Sentence": "§184§ Deliberations and decisions of shareholder meetings as well as decisions issued by circulation shall be recorded in minutes and entered into a special register signed by the company’s president, manager, or board of directors, as the case may be."
+  },
+  {
+    "Arabic Sentence": "§149§ وللشركة استخدام وسائل التقنية الحديثة لإثبات وتدوين المداولات والقرارات.",
+    "English Sentence": "§185§ The company may use means of technology to document and record such deliberations and decisions."
+  },
+  {
+    "Arabic Sentence": "§150§ على رئيس الشركة أو مديرها أو مجلس إدارتها -بحسب الأحوال- أن يقيد لدى السجل التجاري قرارات المساهمين التي تحددها اللوائح خلال (خمسة عشر) يوماً من تاريخ صدورها.",
+    "English Sentence": "§186§ Shareholder decisions which the Regulations require to be registered with the Commercial Register shall be registered therewith by the company’s president, manager, or board of directors, as the case may be, within 15 days from their issuance date."
+  },
+  {
+    "Arabic Sentence": "§151§ يجوز أن ينص في نظام الشركة الأساس على إصدار قرار المساهمين بعرضه عليهم بالتمرير دون الحاجة إلى اجتماعهم.",
+    "English Sentence": "§187§ The company’s articles of association may provide for the issuance of shareholder decisions by circulation."
+  },
+  {
+    "Arabic Sentence": "§152§ وفي هذه الحالة، يرسل رئيس الشركة أو مديرها أو مجلس إدارتها بحسب الأحوال، القرار المقترح والوثائق ذات العلاقة به إلى جميع المساهمين، مع بيان ما يتعين على المساهم اتباعه للموافقة عليه والتاريخ الذي يتعين فيه صدوره.",
+    "English Sentence": "§188§ In such case, the company's president, manager, or board of directors, as the case may be, shall send to all shareholders the proposed decision along with the relevant documents, the instructions to be followed to approve the decision, and the date set for its issuance."
+  },
+  {
+    "Arabic Sentence": "§153§ ما لم ينص نظام الشركة الأساس على وسيلة إبلاغ أخرى، يجوز أن يُرسل القرار المقترح وما يتعلق به من وثائق بأي من الوسائل الآتية:",
+    "English Sentence": "§189§ Unless the company’s articles of association provide for other means of notification, the proposed decision and the relevant documents may be sent to shareholders using any of the following means:"
+  },
+  {
+    "Arabic Sentence": "§154§ إرسالها إلى المساهمين بخطابات مسجلة.",
+    "English Sentence": "§190§ Registered mail."
+  },
+  {
+    "Arabic Sentence": "§155§ التسليم شخصياً إلى المساهمين أو من ينوب عنهم نظاماً.",
+    "English Sentence": "§191§ Personal delivery to the shareholders or their legal representatives."
+  },
+  {
+    "Arabic Sentence": "§156§ إرسالها بالبريد الإلكتروني أو أي من وسائل التقنية الحديثة.",
+    "English Sentence": "§192§ E-mail or other means of technology."
+  },
+  {
+    "Arabic Sentence": "§157§ يحدد نظام الشركة الأساس النصاب اللازم لصحة إصدار قرارات المساهمين بالتمرير.",
+    "English Sentence": "§193§ The company’s articles of association shall specify the quorum required for the validity of issuing shareholder decisions by circulation."
+  },
+  {
+    "Arabic Sentence": "§158§ في حال تأسيس شركة المساهمة المبسطة من شخص واحد، أو إذا آلت جميع أسهمها إلى شخص واحد، يترتب ما يأتي:",
+    "English Sentence": "§194§ The incorporation of a simplified joint-stock company by a single person or the transfer of all its shares to a single person shall entail the following:"
+  },
+  {
+    "Arabic Sentence": "§159§ اقتصار مسؤولية هذا الشخص على ما خصصه من مال ليكون رأس مال للشركة.",
+    "English Sentence": "§195§ The liability of such person shall be limited to what he allocates as capital."
+  },
+  {
+    "Arabic Sentence": "§160§ أن تكون له صلاحيات وسلطات المساهمين المنصوص عليها في هذا الباب، وتصدر قراراته كتابة وتدون في سجل خاص لدى الشركة.",
+    "English Sentence": "§196§ Said person shall have the powers and authorities of shareholders provided for in this Part; his decisions shall be issued in writing and recorded in a special register kept at the company."
+  }
+]

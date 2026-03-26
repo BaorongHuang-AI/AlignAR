@@ -1,0 +1,810 @@
+[
+  {
+    "Arabic Sentence": "§0§ يجوز أن يُنص في نظام الشركة الأساس على قيود على التصرف في الأسهم تتعلق بالآتي:",
+    "English Sentence": "§0§ The company’s articles of association may provide for restrictions on the disposition of shares, as follows:"
+  },
+  {
+    "Arabic Sentence": "§1§ حظر التصرف فيها لمدة لا تتجاوز (عشر) سنوات من تاريخ إصدارها.",
+    "English Sentence": "§1§ Restricting the disposition of shares for a period not exceeding 10 years from their issuance date."
+  },
+  {
+    "Arabic Sentence": "§2§ ويجوز تمديد هذه المدة بإجماع المساهمين.",
+    "English Sentence": "§2§ Such period may be extended if unanimously approved by shareholders."
+  },
+  {
+    "Arabic Sentence": "§3§ اشتراط موافقة الشركة أو المساهمين قبل التصرف فيها.",
+    "English Sentence": "§3§ Requiring the approval of the company or shareholders prior to the disposition of shares."
+  },
+  {
+    "Arabic Sentence": "§4§ ويعد باطلًا كل تصرف في الأسهم يتم بالمخالفة لتلك القيود.",
+    "English Sentence": "§4§ Any disposition of shares in violation of such restrictions shall be deemed null and void."
+  },
+  {
+    "Arabic Sentence": "§5§ يجوز أن يُنص في نظام الشركة الأساس على شروط إلزام أحد المساهمين بالتنازل عن أسهمه، ويُقدّر ثمن شراء الأسهم وفقًا للقيمة العادلة، ما لم ينص نظام الشركة الأساسي على غير ذلك.",
+    "English Sentence": "§5§ The company’s articles of association may provide for the conditions under which a shareholder is obligated to assign his shares.\n§6§ The purchase price of such shares shall be determined on the basis of their fair value, unless the company’s articles of association stipulate otherwise."
+  },
+  {
+    "Arabic Sentence": "§6§ ويجوز أن يُنص في نظام الشركة الأساس على تعليق الحقوق المتصلة بأسهم ذلك المساهم – فيما عدا الحقوق المالية – إلى حين تنازله عنها.",
+    "English Sentence": "§7§ The company’s articles of association may provide for the suspension of the rights associated with his shares, excluding financial rights, until assignment of his shares is completed."
+  },
+  {
+    "Arabic Sentence": "§7§ فيما عدا الأفعال الجنائية، يجوز أن يُنص في نظام الشركة الأساس على تسوية المنازعات أو الخلافات أياً كانت طبيعتها التي قد تقع بين المساهمين أو بين الشركة ورئيسها أو مديرها أو أي من أعضاء مجلس إدارتها – بحسب الأحوال – باللجوء إلى التحكيم أو غيره من الوسائل البديلة لتسويتها.",
+    "English Sentence": "§8§ Except for criminal acts, the company’s articles of association may provide for the settlement of disputes of any nature which may arise among the shareholders or between the company and its president, manager, or any of its board members, as the case may be, by resorting to arbitration or alternative means of settlement."
+  },
+  {
+    "Arabic Sentence": "§8§ يشترط موافقة المساهمين بالإجماع على تضمين نظام الشركة الأساس أحكام المواد (الحادية والخمسين بعد المائة) و(الثانية والخمسين بعد المائة) و(الثالثة والخمسين بعد المائة) من النظام، وعلى أي تعديل يطرأ على أي منها.",
+    "English Sentence": "§9§ The unanimous approval of shareholders shall be required to include in the company’s articles of association the provisions of Articles 151, 152, and 153 of this Law and any amendments thereto."
+  },
+  {
+    "Arabic Sentence": "§9§ تحدد اللوائح الأحكام اللازمة لتنفيذ ما ورد في هذا الباب.",
+    "English Sentence": "§10§ The Regulations shall specify the provisions necessary for the implementation of the provisions of this Part."
+  },
+  {
+    "Arabic Sentence": "§10§ الشركة ذات المسؤولية المحدودة: هي شركة يؤسسها شخص واحد أو أكثر من ذوي الصفة الطبيعية أو الاعتبارية، وتعد ذمتها مستقلة عن الذمة المالية لكل شريك فيها أو المالك لها.",
+    "English Sentence": "§11§ A limited liability company is a company incorporated by one or more natural or legal persons."
+  },
+  {
+    "Arabic Sentence": "§11§ وتكون الشركة وحدها مسؤولة عن الديون والالتزامات المترتبة عليها أو الناشئة عن نشاطها، ولا يكون المالك لها ولا الشريك فيها مسؤولًا عن هذه الديون والالتزامات إلا بقدر حصته في رأس المال.",
+    "English Sentence": "§12§ The company’s assets and liabilities shall be deemed separate from those of its partners or owner; the company shall be solely liable for its incurred debts and liabilities as well as any debts and liabilities arising from its activities.\n§13§ The company’s owner and partners shall not be liable for such debts and liabilities except in proportion to their interests in the capital."
+  },
+  {
+    "Arabic Sentence": "§12§ في حال تأسيس الشركة ذات المسؤولية المحدودة من شخص واحد، أو إذا آلت جميع حصصها إلى شخص واحد، يترتب ما يأتي:",
+    "English Sentence": "§14§ The incorporation of a limited liability company by a single person or the transfer of all of its interests to a single person shall entail the following:"
+  },
+  {
+    "Arabic Sentence": "§13§ أن تكون لهذا الشخص صلاحيات وسلطات المدير ومجلس مديري الشركة والجمعية العامة للشركاء المنصوص عليها في هذا الباب، وتصدر قراراته كتابة، وتُدوَّن في سجل خاص لدى الشركة.",
+    "English Sentence": "§15§ Said person shall have the powers and authorities of the manager, board of managers, and general assembly of partners stipulated in this Part; his decisions shall be issued in writing and recorded in a special register kept at the company."
+  },
+  {
+    "Arabic Sentence": "§14§ يجوز لهذا الشخص تعيين مدير أو أكثر يكون هو الممثل للشركة أمام القضاء وهيئات التحكيم والغير، ومسؤولًا عن إدارتها أمام الشريك المالك لحصص الشركة.",
+    "English Sentence": "§16§ Said person may appoint a manager, or more, to represent the company before the judiciary, arbitration tribunals, and other parties, and to be responsible before him for its management."
+  },
+  {
+    "Arabic Sentence": "§15§ يكون للشركة ذات المسؤولية المحدودة المملوكة من شخص واحد نظامٌ أساس، وكل إشارة إلى عقد التأسيس في الأحكام التي تسري على الشركة ذات المسؤولية المحدودة تعني نظام الشركة الأساس.",
+    "English Sentence": "§17§ A single-person limited liability company shall have articles of association; any reference to the articles of incorporation in the provisions applicable to a limited liability company shall mean the articles of association."
+  },
+  {
+    "Arabic Sentence": "§16§ يجب أن يشتمل عقد تأسيس الشركة ذات المسؤولية المحدودة بصفة خاصة على البيانات الآتية:",
+    "English Sentence": "§18§ The following information shall be included in the articles of incorporation of a limited liability company:"
+  },
+  {
+    "Arabic Sentence": "§17§ أسماء الشركاء، وبياناتهم.",
+    "English Sentence": "§19§ Partners’ names and particulars."
+  },
+  {
+    "Arabic Sentence": "§18§ اسم الشركة.",
+    "English Sentence": "§20§ Company’s name."
+  },
+  {
+    "Arabic Sentence": "§19§ المركز الرئيس للشركة.",
+    "English Sentence": "§21§ Company’s headquarters."
+  },
+  {
+    "Arabic Sentence": "§20§ غرض الشركة.",
+    "English Sentence": "§22§ Company’s purpose."
+  },
+  {
+    "Arabic Sentence": "§21§ رأس المال، وتوزيعه بين الشركاء.",
+    "English Sentence": "§23§ Company’s capital and its distribution among partners."
+  },
+  {
+    "Arabic Sentence": "§22§ إقرار الشركاء بالوفاء بقيمة الحصص.",
+    "English Sentence": "§24§ An acknowledgment by the partners that their contributions are fully paid."
+  },
+  {
+    "Arabic Sentence": "§23§ مدة الشركة إن وجدت.",
+    "English Sentence": "§25§ Company’s term, if any."
+  },
+  {
+    "Arabic Sentence": "§24§ إدارة الشركة.",
+    "English Sentence": "§26§ Company’s management."
+  },
+  {
+    "Arabic Sentence": "§25§ التنازل عن الحصص.",
+    "English Sentence": "§27§ Assignment of interests."
+  },
+  {
+    "Arabic Sentence": "§26§ وسيلة توجيه الإعلانات التي قد توجهها الشركة إلى الشركاء.",
+    "English Sentence": "§28§ Means of sending notifications to partners."
+  },
+  {
+    "Arabic Sentence": "§27§ قرارات الشركاء.",
+    "English Sentence": "§29§ Issuance of partner decisions."
+  },
+  {
+    "Arabic Sentence": "§28§ كيفية توزيع الأرباح والخسائر بين الشركاء.",
+    "English Sentence": "§30§ Manner of distributing profits and losses among partners."
+  },
+  {
+    "Arabic Sentence": "§29§ تاريخ بدء السنة المالية وانتهائها.",
+    "English Sentence": "§31§ Dates on which the company’s fiscal year commences and ends."
+  },
+  {
+    "Arabic Sentence": "§30§ انقضاء الشركة.",
+    "English Sentence": "§32§ Termination of the company."
+  },
+  {
+    "Arabic Sentence": "§31§ أي أحكام أو شروط أو بيانات أخرى يتفق الشركاء على تضمينها في عقد تأسيس الشركة ولا تتعارض مع أحكام النظام.",
+    "English Sentence": "§33§ Any other terms, conditions, or information the partners agree to include in the company’s articles of incorporation that are not inconsistent with the provisions of this Law."
+  },
+  {
+    "Arabic Sentence": "§32§ يجب أن يرفق بعقد التأسيس عند تقديم طلب تأسيس الشركة الآتي:",
+    "English Sentence": "§34§ The following shall be enclosed with the company’s articles of incorporation upon submission of its incorporation application:"
+  },
+  {
+    "Arabic Sentence": "§33§ إقرار المؤسسين بالالتزام بجميع متطلبات النظام ذات الصلة بتأسيس الشركة.",
+    "English Sentence": "§35§ An acknowledgment by the incorporators to satisfy all the requirements provided for in this Law which relate to the incorporation of the company."
+  },
+  {
+    "Arabic Sentence": "§34§ بيان أو تقرير معد من مقيم معتمد أو أكثر يبين فيه القيمة العادلة للحصص العينية إن وجدت، وإقرار من باقي المؤسسين بالموافقة على المقابل المحدد لها.",
+    "English Sentence": "§36§ A statement or report prepared by an accredited valuer, or more, indicating the fair value of in-kind contributions, if any, and an acknowledgment by the incorporators approving the consideration for such contributions."
+  },
+  {
+    "Arabic Sentence": "§35§ يُتبع في تقييم الحصص العينية الأحكام المنصوص عليها في المادة (الخامسة والأربعين بعد المائة) من النظام.",
+    "English Sentence": "§37§ In-kind contributions shall be valuated in accordance with the provisions of Article 141 of this Law."
+  },
+  {
+    "Arabic Sentence": "§36§ يدير الشركة مدير أو أكثر من الشركاء أو من غيرهم، ويعين الشركاء المدير أو المديرين في عقد تأسيس الشركة أو في عقد مستقل، لمدة محددة أو غير محددة.",
+    "English Sentence": "§38§ A limited liability company shall be managed by one manager, or more, appointed from among the partners or others.\n§39§ The partners shall appoint said manager or managers in the company’s articles of incorporation or in a separate contract for a specified or unspecified period."
+  },
+  {
+    "Arabic Sentence": "§37§ ويجوز بقرار من الشركاء تكوين مجلس مديرين إذا تعددوا.",
+    "English Sentence": "§40§ In case of multiple managers, a board of managers may be formed pursuant to a decision by the partners."
+  },
+  {
+    "Arabic Sentence": "§38§ يحدد عقد تأسيس الشركة أو قرار الشركاء طريقة إدارة الشركة، والأغلبية اللازمة لصدور القرارات عند تعيين أكثر من مدير أو تكوين مجلس مديرين.",
+    "English Sentence": "§41§ The company’s articles of incorporation or a decision issued by the partners shall specify the method of managing the company and the majority required for issuing decisions if the company has multiple managers or a board of managers."
+  },
+  {
+    "Arabic Sentence": "§39§ يمثل الشركة ذات المسؤولية المحدودة مديرها أمام القضاء وهيئات التحكيم والغير، وله تفويض الغير في بعض صلاحياته لمباشرة عمل أو أعمال معينة.",
+    "English Sentence": "§42§ The manager shall represent the limited liability company before the judiciary, arbitration tribunals, and other parties.\n§43§ He may delegate some of his powers to others to perform certain acts."
+  },
+  {
+    "Arabic Sentence": "§40§ لا يسري في مواجهة الغير أي قرار يصدر بتعيين المدير أو بتغييره أو بتقييد سلطاته؛ إلا بعد قيده لدى السجل التجاري.",
+    "English Sentence": "§44§ A decision appointing or replacing a manager or restricting his powers shall not be valid against third parties except after its registration with the Commercial Register."
+  },
+  {
+    "Arabic Sentence": "§41§ تلتزم الشركة بأعمال المدير التي تدخل في غرض الشركة.",
+    "English Sentence": "§45§ The company shall be bound by the acts of the manager which are within the company's purposes."
+  },
+  {
+    "Arabic Sentence": "§42§ إذا كان للشركة ذات المسؤولية المحدودة مدير واحد، فيجب على الشركاء في حال خلو منصبه تعيين مدير جديد للشركة خلال (خمسة عشر) يوماً من تاريخ العلم بذلك، ويكون لمراجع حسابات الشركة –إن وجد– أو أي من الشركاء حق دعوة الجمعية العامة إلى الانعقاد لتعيين مدير جديد للشركة.",
+    "English Sentence": "§46§ If a limited liability company has a single manager and his position becomes vacant, the partners shall appoint a new manager within 15 days from the date they become aware thereof.\n§47§ The company's auditor, if any, or any of the partners may call for a general assembly meeting to appoint a new manager."
+  },
+  {
+    "Arabic Sentence": "§43§ يجوز للشركاء عزل المدير أو المديرين، سواء أكانوا معينين في عقد تأسيس الشركة أم في عقد مستقل، وعلى الشركاء تعيين مدير أو أكثر خلفًا لمن تم عزلهم، وإذا كان المدير شريكًا في الشركة فلا يجوز له أن يشترك في التصويت على القرار المتعلق بعزله.",
+    "English Sentence": "§48§ The partners may remove the manager, or managers in case of multiple managers, whether appointed in the company’s articles of incorporation or in a separate contract; in such case, the partners shall appoint a new manager to replace the removed manager.\n§49§ If the manager is a partner in the company, he may not vote on the decision relating to his removal."
+  },
+  {
+    "Arabic Sentence": "§44§ يجوز لشريك أو أكثر يملكون (ربع) رأس مال الشركة على الأقل التقدم إلى الجهة القضائية المختصة بطلب عزل المدير أو المديرين.",
+    "English Sentence": "§50§ A partner, or more, representing at least one fourth of the company’s capital may petition the competent judicial authority to remove the manager or managers, as the case may be."
+  },
+  {
+    "Arabic Sentence": "§45§ يكون للشركة ذات المسؤولية المحدودة جمعية عامة تتكون من جميع الشركاء.",
+    "English Sentence": "§51§ A limited liability company shall have a general assembly comprising all the partners of the company."
+  },
+  {
+    "Arabic Sentence": "§46§ تنعقد الجمعية العامة للشركة بدعوة من المدير أو المديرين وفقًا للأوضاع التي يحددها عقد تأسيس الشركة، على أن تنعقد مرة على الأقل في السنة خلال الأشهر (الستة) التالية لنهاية السنة المالية للشركة.",
+    "English Sentence": "§52§ The general assembly of partners shall convene upon a call by the manager or managers, as the case may be, in accordance with the conditions specified in the company’s articles of incorporation, provided that it is held at least once a year during the six-month period following the end of the company’s fiscal year."
+  },
+  {
+    "Arabic Sentence": "§47§ يجوز دعوة الجمعية العامة للشركاء في أي وقت بناءً على طلب من المديرين أو مراجع الحسابات أو بناءً على طلب شريك أو أكثر يملكون (عشرة في المائة) من رأس المال على الأقل.",
+    "English Sentence": "§53§ The general assembly of partners may be held at any time upon the request of the managers, auditor, or a partner, or more, representing at least 10% of the capital."
+  },
+  {
+    "Arabic Sentence": "§48§ ويكون توجيه الدعوة إلى جميع الشركاء بخطابات مسجلة أو بوسائل التقنية الحديثة أو بأي وسيلة أخرى ينص عليها عقد التأسيس، وذلك قبل الموعد المحدد لانعقاد الجمعية العامة (بواحد وعشرين) يومًا على الأقل.",
+    "English Sentence": "§54§ The invitation for the general assembly meeting shall be sent to all partners by registered mail, means of technology, or any other means stipulated in the articles of incorporation at least 21 days prior to the date set for said meeting."
+  },
+  {
+    "Arabic Sentence": "§49§ يجوز للشركاء الذين يمثلون جميع حصص رأس مال الشركة أن يعقدوا جمعية عامة دون مراعاة للأوضاع والمدد المقررة للدعوة.",
+    "English Sentence": "§55§ Partners who represent all of the interests in the company’s capital may hold a general assembly meeting without observing the conditions and periods stipulated for the call."
+  },
+  {
+    "Arabic Sentence": "§50§ تثبت مداولات الجمعية العامة للشركاء وقراراتها أو قرارات الشركاء بالتمرير في محاضر تدون في سجل خاص تعده الشركة لهذا الغرض.",
+    "English Sentence": "§56§ Deliberations of the general assembly of partners as well as its decisions and partner decisions issued by circulation shall be recorded in minutes and entered into a special register prepared by the company for such purpose."
+  },
+  {
+    "Arabic Sentence": "§51§ وللشركة استخدام وسائل التقنية الحديثة لإثبات وتدوين المداولات والقرارات.",
+    "English Sentence": "§57§ The company may use means of technology to record and enter such deliberations and decisions."
+  },
+  {
+    "Arabic Sentence": "§52§ يجوز عقد اجتماعات الجمعية العامة للشركاء واشتراك الشركاء في المداولات والتصويت على القرارات، بوساطة وسائل التقنية الحديثة.",
+    "English Sentence": "§58§ Meetings of the general assembly of partners may be held and partners may participate in deliberations and vote on decisions using means of technology."
+  },
+  {
+    "Arabic Sentence": "§53§ تصدر قرارات الشركاء في الجمعية العامة.",
+    "English Sentence": "§59§ Decisions of partners shall be issued at the general assembly."
+  },
+  {
+    "Arabic Sentence": "§54§ ومع ذلك، يجوز إصدار قرارات الشركاء بعرضها عليهم بالتمرير دون الحاجة إلى انعقاد الجمعية العامة.",
+    "English Sentence": "§60§ However, such decisions may be issued by circulation; in such case, the company’s manager shall send the proposed decisions along with the relevant documents to each partner to vote thereon in writing."
+  },
+  {
+    "Arabic Sentence": "§55§ وفي هذه الحالة، يرسل مدير الشركة إلى كل شريك القرارات المقترحة والوثائق ذات العلاقة بها ليصوت الشريك عليها كتابةً.",
+    "English Sentence": "§60§ However, such decisions may be issued by circulation; in such case, the company’s manager shall send the proposed decisions along with the relevant documents to each partner to vote thereon in writing."
+  },
+  {
+    "Arabic Sentence": "§56§ ما لم ينص عقد تأسيس الشركة على وسيلة إبلاغ أخرى، يجوز أن تُرسل القرارات المقترحة وما يتعلق بها من وثائق بأي من الوسائل الآتية:",
+    "English Sentence": "§61§ Unless the company’s articles of incorporation provide for other means of notification, the proposed decisions and the relevant documents may be sent using any of the following means:"
+  },
+  {
+    "Arabic Sentence": "§57§ إرسالها إلى الشركاء بخطابات مسجلة.",
+    "English Sentence": "§62§ Registered mail."
+  },
+  {
+    "Arabic Sentence": "§58§ التسليم شخصياً إلى الشركاء أو من ينوب عنهم نظاماً.",
+    "English Sentence": "§63§ Personal delivery to the partners or their legal representatives."
+  },
+  {
+    "Arabic Sentence": "§59§ إرسالها بالبريد الإلكتروني أو بأي من وسائل التقنية الحديثة.",
+    "English Sentence": "§64§ E-mail or other means of technology."
+  },
+  {
+    "Arabic Sentence": "§60§ في جميع الأحوال لا تكون القرارات صحيحة إلا إذا وافق عليها شريك أو أكثر يمثلون أكثر من (نصف) رأس المال على الأقل، ما لم ينص عقد تأسيس الشركة على أغلبية أكبر.",
+    "English Sentence": "§65§ In all cases, decisions shall be deemed valid only if approved by a partner, or more, representing at least more than half of the capital, unless the company’s articles of incorporation provide for a greater majority."
+  },
+  {
+    "Arabic Sentence": "§61§ إذا لم تتوافر في المداولة أو في المشاورة الأولى الأغلبية المنصوص عليها في الفقرة (٣) من هذه المادة، وجبت دعوة الشركاء إلى الاجتماع، وتصدر القرارات في هذه الحالة بموافقة أغلبية الحصص الممثلة فيه أياً كانت النسبة التي تمثلها في رأس المال، ما لم ينص عقد تأسيس الشركة على غير ذلك.",
+    "English Sentence": "§66§ If the majority stipulated in paragraph (3) of this Article is not achieved in the first deliberation or consultation, the partners shall be called for a meeting.\n§67§ In such case, decisions shall be issued by the approval of the majority interests represented in the meeting regardless of the percentage said interests represent in the capital, unless the company’s articles of incorporation stipulate otherwise."
+  },
+  {
+    "Arabic Sentence": "§62§ يجوز أن يحدد عقد تأسيس الشركة أي طريقة أخرى للدعوة إلى الاجتماع أو الإبلاغ بالقرارات.",
+    "English Sentence": "§68§ The company’s articles of incorporation may provide for any other means to call for meetings or communicate decisions."
+  },
+  {
+    "Arabic Sentence": "§63§ يعد مدير الشركة عن كل سنة مالية القوائم المالية للشركة وتقريراً عن نشاطها ومركزها المالي عن السنة المالية المنقضية واقتراحاته في شأن توزيع الأرباح، إن وجدت.",
+    "English Sentence": "§69§ The company’s manager shall, for each fiscal year, prepare the company’s financial statements, a report on its activities and financial position for the ending fiscal year, and a proposal for the distribution of dividends, if any."
+  },
+  {
+    "Arabic Sentence": "§64§ ويضع المدير هذه الوثائق تحت تصرف مراجع الحسابات -إن وجد- قبل الموعد المحدد لانعقاد الجمعية العامة في اجتماعها السنوي (بخمسة وأربعين) يوماً على الأقل.",
+    "English Sentence": "§70§ The manager shall make such documents available to the auditor, if any, at least 45 days prior to the date set for the annual general assembly meeting."
+  },
+  {
+    "Arabic Sentence": "§65§ على مدير الشركة أن يزود الشركاء بالقوائم المالية للشركة وتقريرعن نشاطها، وتقرير مراجع الحسابات إن وجد، سواء بوسائل التقنية الحديثة أو بأي وسيلة أخرى ينص عليها عقد تأسيس الشركة، وذلك قبل الموعد المحدد لانعقاد الجمعية العامة السنوي (بواحد وعشرين) يوماً على الأقل، وعليه أيضاً إيداع هذه الوثائق وفقاً لما تحدده اللوائح.",
+    "English Sentence": "§71§ The company’s manager shall provide the partners with the company’s financial statements and the report on its activities, as well as the auditor’s report, if any, whether by means of technology or by any other means provided for in the company’s articles of incorporation, at least 21 days prior to the date set for the annual general assembly meeting.\n§72§ He shall also deposit such documents in accordance with the Regulations."
+  },
+  {
+    "Arabic Sentence": "§66§ يجب أن يشتمل جدول أعمال الجمعية العامة للشركاء في اجتماعها السنوي على البنود الآتية:",
+    "English Sentence": "§73§ The agenda of the annual meeting of the general assembly of partners shall include the following items:"
+  },
+  {
+    "Arabic Sentence": "§67§ الاطلاع على تقرير مدير الشركة عن نشاط الشركة ومركزها المالي للسنة المالية المنقضية.",
+    "English Sentence": "§74§ Reviewing the manager’s report on the company's activities and financial position for the ending fiscal year."
+  },
+  {
+    "Arabic Sentence": "§68§ الاطلاع على القوائم المالية للسنة المالية المنقضية ومناقشتها.",
+    "English Sentence": "§75§ Reviewing and discussing the financial statements of the ending fiscal year."
+  },
+  {
+    "Arabic Sentence": "§69§ مناقشة تقرير مراجع الحسابات للسنة المالية المنقضية - إن وجد - واتخاذ قرار بشأنه.",
+    "English Sentence": "§76§ Discussing the auditor's report for the ending fiscal year, if any, and making a decision thereon."
+  },
+  {
+    "Arabic Sentence": "§70§ البت في اقتراح مدير الشركة بشأن توزيع الأرباح إن وجدت.",
+    "English Sentence": "§77§ Deciding on the manager’s proposal on the distribution of dividends, if any."
+  },
+  {
+    "Arabic Sentence": "§71§ لا يجوز للجمعية العامة للشركاء أن تتداول في غير المسائل المدرجة في جدول الأعمال إلا إذا ظهرت أثناء الاجتماع وقائع تقتضي المداولة فيها.",
+    "English Sentence": "§78§ The general assembly of partners may not deliberate matters other than those included in the agenda, unless new developments requiring deliberation thereof arise during the meeting."
+  },
+  {
+    "Arabic Sentence": "§72§ ومع ذلك، إذا طلب أحد الشركاء إدراج مسألة معينة في جدول الأعمال، وجب على مدير الشركة إجابة الطلب، وإلا كان من حق الشريك أن يحتكم إلى الجمعية.",
+    "English Sentence": "§79§ If a partner requests the inclusion of an item in the agenda, the company’s manager shall grant such request; if the request is not granted, said partner may resort to the assembly."
+  },
+  {
+    "Arabic Sentence": "§73§ لكل شريك حق مناقشة الموضوعات المدرجة في جدول أعمال الجمعية العامة للشركاء، ويكون مدير الشركة ملزمًا بالإجابة عن أسئلة الشركاء، فإذا رأى أحد الشركاء أن الرد على سؤاله غير كافٍ، احتكم إلى الجمعية.",
+    "English Sentence": "§80§ Each partner is entitled to discuss items on the agenda of the general assembly of partners and the company’s manager must respond to the partners’ questions.\n§81§ If the partner is not satisfied with the response, he may resort to the assembly."
+  },
+  {
+    "Arabic Sentence": "§74§ دون إخلال بحقوق الغير حسن النية، لكل شريك التقدم إلى الجهة القضائية المختصة بطلب إبطال قرار الجمعية العامة للشركاء الصادر بالمخالفة لأحكام النظام أو عقد تأسيس الشركة.",
+    "English Sentence": "§82§ Without prejudice to the rights of bona fide third parties, any partner may petition the competent judicial authority to invalidate a decision issued by the general assembly of partners in violation of the provisions of this Law or the company’s articles of incorporation."
+  },
+  {
+    "Arabic Sentence": "§75§ ومع ذلك، لا يجوز أن يطلب إبطال القرار إلا الشركاء الذين اعترضوا كتابة عليه أو الذين لم يتمكنوا من الاعتراض عليه بعد علمهم به، ويترتب على تقرير الإبطال اعتبار القرار كأن لم يكن بالنسبة إلى جميع الشركاء.",
+    "English Sentence": "§83§ Such petition may be filed only by partners who object to said decision in writing or partners who could not object to the decision after becoming aware thereof.\n§84§ The invalidation of the decision by the competent judicial authority shall render it null and void for all partners."
+  },
+  {
+    "Arabic Sentence": "§76§ لا تسمع دعوى الإبطال بعد انقضاء (تسعين) يوماً من تاريخ صدور القرار المشار إليه في الفقرة (١) من هذه المادة.",
+    "English Sentence": "§85§ A lawsuit filed for invalidation shall not be heard after the lapse of 90 days from the date the decision referred to in paragraph (1) of this Article is issued."
+  },
+  {
+    "Arabic Sentence": "§77§ يشترط لرفع الدعوى المشار إليها في الفقرة (١) من هذه المادة أن يكون رافع الدعوى شريكاً في الشركة أثناء رفع الدعوى وخلال جميع إجراءاتها.",
+    "English Sentence": "§86§ To file the lawsuit referred to in paragraph (1) of this Article, the plaintiff must be a partner in the company upon filing the lawsuit and throughout its proceedings."
+  },
+  {
+    "Arabic Sentence": "§78§ يكون لكل شريك حق الاشتراك في المداولات وفي التصويت، ويكون له عدد من الأصوات يعادل عدد الحصص التي يملكها، ولا يجوز الاتفاق على غير ذلك.",
+    "English Sentence": "§87§ A partner shall have the right to participate in deliberations and vote on decisions, and shall be entitled to a number of votes equal to the number of interests he owns.\n§88§ Any agreement to the contrary may not be concluded."
+  },
+  {
+    "Arabic Sentence": "§79§ يجوز لكل شريك أن يوكِّل عنه -كتابةً- شريكاً آخر في حضور اجتماعات الشركاء والتصويت فيها، ما لم ينص عقد تأسيس الشركة على غير ذلك.",
+    "English Sentence": "§89§ A partner may designate in writing another partner to act as his proxy to attend partner meetings and vote therein, unless the company’s articles of incorporation stipulate otherwise."
+  },
+  {
+    "Arabic Sentence": "§80§ ويجوز أن ينص في عقد التأسيس على جواز أن يوكل الشريك عنه من يراه من غير الشركاء -كتابةً- لحضور اجتماعات الشركاء والتصويت فيها.",
+    "English Sentence": "§90§ A stipulation may be included in the articles of incorporation permitting a partner to designate in writing a non-partner to act as his proxy to attend partner meetings and vote therein."
+  },
+  {
+    "Arabic Sentence": "§81§ للشريك غير المدير أن يقدم إلى المدير، وله -أو لمن يفوضه- طلب الاطلاع في مركز الشركة على أعمالها وفحص سجلاتها ووثائقها (مرتين) خلال السنة المالية للشركة، وعلى الشركة أن تلبي طلبه خلال (خمسة عشر) يوماً من تاريخ طلبه.",
+    "English Sentence": "§91§ A non-managing partner may present his opinion to the manager.\n§92§ Said partner, or his designee, may request access to the company’s operations and examine its records and documents at the company’s headquarters twice during the company’s fiscal year.\n§93§ The company must respond to his request within 15 days from the date of submission thereof."
+  },
+  {
+    "Arabic Sentence": "§82§ ويعد باطلاً كل شرط مخالف لذلك.",
+    "English Sentence": "§94§ Any condition to the contrary shall be deemed null and void."
+  },
+  {
+    "Arabic Sentence": "§83§ يلتزم كل من حصل على أي معلومة –بناءً على هذه المادة– بالمحافظة على سريتها وعدم استخدامها في أي غرض قد يضر بالشركة أو أحد الشركاء فيها، ويلتزم بالتعويض عن أي ضرر ينشأ عن عدم الالتزام بذلك.",
+    "English Sentence": "§95§ A person who becomes privy to any information, pursuant to this Article, shall maintain the confidentiality of said information and shall not use it for any purpose which may cause harm to the company or any of its partners.\n§96§ In case of non-compliance, said person shall be liable for any damage arising therefrom."
+  },
+  {
+    "Arabic Sentence": "§84§ يجوز تعديل عقد تأسيس الشركة بما في ذلك زيادة رأس مالها أو تخفيضه بموافقة شريك أو أكثر يملكون (ثلاثة أرباع) رأس المال على الأقل، ما لم ينص عقد التأسيس على نسبة أكبر.",
+    "English Sentence": "§97§ The company’s articles of incorporation including any increase or decrease to the capital may be amended upon the approval of one or more partners, representing at least three-quarters of the capital, unless the articles of incorporation provide for a higher percentage."
+  },
+  {
+    "Arabic Sentence": "§85§ يكون للشريك -عند الموافقة على زيادة رأس مال الشركة عن طريق إصدار حصص جديدة- الأولوية في غَلب الحصص التي تصدر مقابل حصصه بنسبة ما يملكه في رأس مال الشركة، وذلك وفقًا لما تحدده اللوائح.",
+    "English Sentence": "§98§ A partner shall, upon the approval of a capital increase through the issuance of new interests, have preemptive rights to acquire the interests issued against cash contributions in proportion to said partner’s interest in the company’s capital, as specified by the Regulations."
+  },
+  {
+    "Arabic Sentence": "§86§ لا يجوز زيادة رأس المال عن طريق رفع القيمة الاسمية لحصص الشركاء أو وقف العمل بحق الأولوية، إلا بإجماع الشركاء.",
+    "English Sentence": "§99§ The company’s capital may not be increased by raising the nominal value of the partners' interests nor may preemptive rights be suspended, without the unanimous agreement of the partners."
+  },
+  {
+    "Arabic Sentence": "§87§ فيما عدا الأعمال الجنائية، يجوز أن يُنص في عقد تأسيس الشركة على تسوية المنازعات أو الخلافات أياً كانت طبيعتها التي قد تقع بين الشركاء أو بين الشركة ومديريها باللجوء إلى التحكيم أو غيره من الوسائل البديلة لتسويتها.",
+    "English Sentence": "§100§ Except for criminal acts, the company’s articles of incorporation may provide for the settlement of disputes of any nature which may arise among the partners or between the company and its managers by resorting to arbitration or alternative means of settlement."
+  },
+  {
+    "Arabic Sentence": "§88§ يحدد الشركاء مقدار رأس مال الشركة في عقد تأسيسها، ويقسم إلى حصص متساوية القيمة، وتكون الحصة غير قابلة للتجزئة والتداول.",
+    "English Sentence": "§101§ Partners shall determine the capital of the company in its articles of incorporation.\n§102§ Such capital shall be divided into indivisible and untradeable interests of equal value."
+  },
+  {
+    "Arabic Sentence": "§89§ فإذا ملك الحصة أشخاص متعددون، جاز للشركة أن توقف استعمال الحقوق المتصلة بها إلى أن يختار ملاك الحصة من بينهم من يعد مالكاً منفرداً لها في مواجهة الشركة.",
+    "English Sentence": "§103§ If an interest is owned by multiple persons, the company may suspend the use of rights associated therewith until the owners of such interest select one person from among themselves to act as the sole owner of such interest against the company."
+  },
+  {
+    "Arabic Sentence": "§90§ ويجوز للشركة أن تحدد لهم ميعاداً لهذا الاختيار وإلا كان لها بعد انقضائه بيع الحصة لحساب مالكها.",
+    "English Sentence": "§104§ The company may set a deadline for the owners to make the selection.\n§105§ If the owners fail to make the selection before such deadline, the company may sell the interest on behalf of its owners."
+  },
+  {
+    "Arabic Sentence": "§91§ وفي هذه الحالة، تُعرض الحصة على الشركاء الآخرين ثم على الغير، وفقاً لما ورد في المادة (الثامنة والسبعين بعد المائة) من النظام، ما لم ينص عقد تأسيس الشركة على غير ذلك.",
+    "English Sentence": "§106§ In such case, the interest shall be offered to the other partners and then to non- partners in accordance with Article 178 of this Law, unless the company’s articles of incorporation stipulate otherwise."
+  },
+  {
+    "Arabic Sentence": "§92§ تُرتب الحصص حقوقاً متساوية في الأرباح الصافية وفي فائض التصفية، ما لم ينص عقد تأسيس الشركة على غير ذلك.",
+    "English Sentence": "§107§ Interests shall entail equal rights to net profit and liquidation surplus, unless the company’s articles of incorporation stipulate otherwise."
+  },
+  {
+    "Arabic Sentence": "§93§ تُحدد الجمعية العامة النسبة التي يجب توزيعها على الشركاء من الأرباح الصافية بعد خصم الاحتياطيات، إن وجدت.",
+    "English Sentence": "§108§ The general assembly shall determine the percentage of the net profit to be distributed to the partners after deducting reserves, if any."
+  },
+  {
+    "Arabic Sentence": "§94§ يستحق الشريك حصته في الأرباح وفقاً لقرار الجمعية العامة أو الشركاء الصادر في هذا الشأن، ويبين القرار تاريخ الاستحقاق وتاريخ التوزيع.",
+    "English Sentence": "§109§ A partner shall be entitled to his share of the profits pursuant to a decision issued by the general assembly or the partners in this regard.\n§110§ Such decision shall determine the eligibility and distribution dates."
+  },
+  {
+    "Arabic Sentence": "§95§ للجمعية العامة للشركاء أن تقرر تخفيض رأس المال إذا زاد على حاجة الشركة أو إذا مُنيت بخسائر.",
+    "English Sentence": "§111§ The general assembly of partners may decide to decrease the capital if it exceeds the company’s needs or if the company incurs losses."
+  },
+  {
+    "Arabic Sentence": "§96§ وفي هذه الحالة الأخيرة، لا يصدر قرار التخفيض إلا بعد تلاوة بيان في الجمعية العامة للشركاء يعده مدير الشركة عن الأسباب الموجبة للتخفيض وعن التزامات الشركة وأثر التخفيض في الوفاء بها، ويرفق بهذا البيان تقرير من مراجع حسابات الشركة.",
+    "English Sentence": "§112§ In case of losses, the decision to decrease the capital shall not be issued until a statement prepared by the company manager stating the grounds for such decrease, the company’s liabilities, and the effect of the decrease on such liabilities is presented at the general assembly of partners; said statement shall include the report of the company's auditor."
+  },
+  {
+    "Arabic Sentence": "§97§ ويجوز الاكتفاء بعرض البيان المذكور على الشركاء في الحالات التي يصدر فيها قرار الشركاء بالتمرير.",
+    "English Sentence": "§113§ If partner decisions are passed by circulation, it may suffice to present the statement to the partners."
+  },
+  {
+    "Arabic Sentence": "§98§ إذا كان تخفيض رأس المال نتيجة زيادته على حاجة الشركة، فيجب على كل مدير في الشركة إعداد بيان بملاءة الشركة المالية يتضمن الآتي:",
+    "English Sentence": "§114§ If the decision to decrease the capital is because it exceeds the company’s needs, each of the company’s managers shall prepare a statement of the company’s financial solvency stating that:"
+  },
+  {
+    "Arabic Sentence": "§99§ أنه بفحصه وضع الشركة في تاريخ إعداد البيان؛ يؤكد عدم وجود ما من شأنه أن يجعل الشركة غير قادرة على سداد ديونها والتزاماتها.",
+    "English Sentence": "§115§ upon reviewing the company’s position, he affirms that, as of the date of the statement, there is nothing that would render the company incapable of paying its debts and liabilities; and"
+  },
+  {
+    "Arabic Sentence": "§100§ أن الشركة قادرة على سداد ديونها والتزاماتها التي تستحق خلال (الاثني عشر) شهراً التي تلي تاريخ إعداد البيان.",
+    "English Sentence": "§116§ the company is able to pay its debts and liabilities due within the 12 months following the date of the statement."
+  },
+  {
+    "Arabic Sentence": "§101§ يجب على كل مدير في الشركة أن يوقع البيان المشار إليه في الفقرة (٢) من هذه المادة ويضمّنه تاريخ إعداده، ويزوّد الشركة به قبل (خمسة عشر) يوماً –على الأقل– من التاريخ المحدد لاتخاذ قرار التخفيض.",
+    "English Sentence": "§117§ Each of the company’s managers shall sign the statement referred to in paragraph (2) of this Article, indicating the date thereof.\n§118§ The partners shall be provided with said statement at least 15 days prior to the date set for making the capital decrease decision."
+  },
+  {
+    "Arabic Sentence": "§102§ يقدم الشركاء مشروعاً بتعديل عقد تأسيس الشركة متضمناً تخفيض رأس مال الشركة إلى السجل التجاري خلال (خمسة عشر) يوماً من تاريخ صدور قرار التخفيض، وتُرفق به الوثائق المشار إليها في الفقرتين (١) و(٢) من هذه المادة؛ بحسب الأحوال، ويكون قرار التخفيض نافذاً بعد قيده وشهره لدى السجل التجاري.",
+    "English Sentence": "§119§ The partners shall submit a draft amendment of the company’s articles of incorporation which includes the capital decrease to the Commercial Register within 15 days from the date on which the capital decrease decision is issued.\n§120§ The documents referred to in paragraphs (1) and (2) of this Article, as the case may be, shall be enclosed with the draft.\n§121§ The capital decrease decision shall take effect upon its registration and publication with the Commercial Register."
+  },
+  {
+    "Arabic Sentence": "§103§ يجوز أن ينص في عقد تأسيس الشركة على تجنيب نسبة معينة من صافي الأرباح لتكوين احتياطي يخصص للأغراض التي يحددها عقد التأسيس.",
+    "English Sentence": "§122§ The company’s articles of incorporation may provide for setting aside a certain percentage of the net profit to create a reserve allocated for purposes specified in the articles of incorporation."
+  },
+  {
+    "Arabic Sentence": "§104§ للشركاء -عند تحديد نصيب الحصص في صافي الأرباح في اجتماع الجمعية العامة السنوي– أن يقرروا تكوين احتياطيات، وذلك بالقدر الذي يحقق مصلحة الشركة أو يكفل توزيع أرباح ثابتة –قدر الإمكان– على الشركاء.",
+    "English Sentence": "§123§ The partners may, when determining dividends from net profit at the annual general assembly meeting, decide to create reserves to serve the company’s interest or ensure the distribution of fixed dividends, as feasible, to the partners."
+  },
+  {
+    "Arabic Sentence": "§105§ ولتلك للجمعية أن تقترح من صافي الأرباح مبالغ لتحقيق أغراض اجتماعية لعاملِي الشركة.",
+    "English Sentence": "§124§ Said assembly may allocate amounts from the net profit for social objectives that benefit company staff."
+  },
+  {
+    "Arabic Sentence": "§106§ يجوز للشريك أن يتنازل عن حصته لأي من الشركاء وفقًا للشروط المنصوص عليها في عقد تأسيس الشركة.",
+    "English Sentence": "§125§ A partner may assign his interest to any of the partners in accordance with the conditions stipulated in the company’s articles of incorporation."
+  },
+  {
+    "Arabic Sentence": "§107§ يجب على الشريك إذا أراد التنازل عن حصته لغير أحد الشركاء في الشركة -بعوض أو دونه- أن يبلغ باقي الشركاء عن طريق مدير الشركة باسم المتنازل له أو المشتري وبشروط التنازل أو البيع، وعلى المدير أن يبلغ باقي الشركاء بمجرد وصول الإبلاغ إليه.",
+    "English Sentence": "§126§ If a partner intends to assign his interest, with or without consideration, to a non-partner, he must notify the other partners, through the company’s manager, of the name of the assignee or purchaser and the conditions of the assignment or sale, and the manager must notify the partners upon receipt of such notification."
+  },
+  {
+    "Arabic Sentence": "§108§ ويجوز لكل شريك أن يطلب استرداد تلك الحصة وسداد قيمتها أو قيام الشركة بشرائها خلال (ثلاثين) يومًا من تاريخ إبلاغ بالثمن الذي يتفق عليه.",
+    "English Sentence": "§127§ Each partner may exercise the right of first refusal and request to purchase said interest and pay its value or the company may purchase said interest within 30 days from the date the manager is notified of the agreed upon price."
+  },
+  {
+    "Arabic Sentence": "§109§ وإذا طلب استرداد هذه الحصة أو الحصص أكثر من شريك قُسمت بينهم نسبة حصة كل منهم في رأس المال.",
+    "English Sentence": "§128§ If multiple partners decide to exercise their right to purchase said interest, the interest shall be divided among them in proportion to their interest in the capital."
+  },
+  {
+    "Arabic Sentence": "§110§ وفي حال الاختلاف على قيمة الحصة تُقدّر قيمتها على نفقة طالب الاسترداد أو الشركة -بحسب الأحوال- من مقيم معتمد أو أكثر يُعد تقرير يبين فيه القيمة العادلة لحصة الشريك الراغب في التنازل.",
+    "English Sentence": "§129§ If a disagreement arises over the value of the interest, an accredited valuer, or more, shall valuate said interest at the expense of the partner exercising said right, or the company, as the case may be, and prepare a report indicating the fair value of the assignor’s interest."
+  },
+  {
+    "Arabic Sentence": "§111§ وإذا انقضت المادة المحددة لممارسة حق الاسترداد دون أن يطلب أي من الشركاء استرداد الحصة أو إذا لم يقم طالب الاسترداد بسداد قيمتها أو إذا لم تقم الشركة بشرائها خلال تلك المدة، كان لصاحبها الحق في التنازل عنها للغير.",
+    "English Sentence": "§130§ If the period prescribed for the right of first refusal expires and the partner does not invoke such right or does not pay the value of the interest, or the company does not purchase the interest, the partner owning the interest may assign such interest to a third party."
+  },
+  {
+    "Arabic Sentence": "§112§ يجوز أن يُنص في عقد تأسيس الشركة على إجراءات أخرى للإبلاغ بالتنازل عن الحصة أو على طريقة تقييم أخرى أو مدة أطول لممارسة حق الاسترداد وسداد القيمة أو لقيام الشركة بشرائها.",
+    "English Sentence": "§131§ The company’s articles of incorporation may stipulate a different notification method for the assignment of interests, a different method for their valuation, or a longer period for exercising the right of first refusal regarding such interests and for payment of their value or a longer period for their purchase by the company."
+  },
+  {
+    "Arabic Sentence": "§113§ لا يسري حق الاسترداد المنصوص عليه في هذه المادة على انتقال ملكية الحصص بالإرث أو بالوصية أو بموجب حكم من الجهة القضائية المختصة.",
+    "English Sentence": "§132§ The right of first refusal provided for in this Article shall not apply to the transfer of the ownership of interests by way of inheritance or bequest or pursuant to a judgment rendered by the competent judicial authority."
+  },
+  {
+    "Arabic Sentence": "§114§ للشركة ذات المسؤولية المحدودة أن تصدر – وفقًا لنظام السوق المالية – أدوات دين أو صكوكًا تمويلية قابلة للتداول.",
+    "English Sentence": "§133§ A limited liability company may, in accordance with the Capital Market Law, issue negotiable debt instruments or financing sukuk."
+  },
+  {
+    "Arabic Sentence": "§115§ يجب أن تصدر أدوات الدين أو الصكوك التمويلية بموافقة الشركاء ووفقًا للأوضاع المقررة لتعديل عقد تأسيس الشركة.",
+    "English Sentence": "§134§ Debt instruments or financing sukuk shall be issued with the approval of the partners in accordance with the conditions prescribed for amending the company’s articles of incorporation."
+  },
+  {
+    "Arabic Sentence": "§116§ يجوز أن تشتري الشركة حصصها أو ترهنها إذا نص عقد تأسيسها على ذلك، ولا يكون للحصص التي تشتريها الشركة أصوات في الجمعية العامة.",
+    "English Sentence": "§135§ The company may purchase its own interests or accept them as a pledge if permitted under its articles of incorporation.\n§136§ Interests purchased by the company shall have no voting rights in the general assembly."
+  },
+  {
+    "Arabic Sentence": "§117§ يجوز رهن الحصص، ويكون للدائن المرتهن قبض الأرباح، ما لم يتفق في عقد الرهن على غير ذلك.",
+    "English Sentence": "§137§ Interests may be pledged and the pledgee may receive dividends, unless the pledge agreement stipulates otherwise."
+  },
+  {
+    "Arabic Sentence": "§118§ تُحدد اللوائح الضوابط اللازمة لتنفيذ ما ورد في هذه المادة.",
+    "English Sentence": "§138§ The Regulations shall specify the rules necessary for the implementation of the provisions of this Article."
+  },
+  {
+    "Arabic Sentence": "§119§ يجوز أن ينص في عقد تأسيس الشركة بعد موافقة شريك أو أكثر يمثلون (تسعين في المائة) من رأس مال الشركة على الأقل، على الآتي:",
+    "English Sentence": "§139§ The company’s articles of incorporation may, upon the approval of one or more partners representing at least 90% of the company’s capital, provide for the following:"
+  },
+  {
+    "Arabic Sentence": "§120§ أن يكون لأكثرية الشركاء إلزام الأقلية بقبول عرض من مشترٍ حسن النية لشراء جميع حصص الشركة بذات السعر والشروط والأحكام الخاصة بشراء حصص الأكثرية.",
+    "English Sentence": "§140§ Majority partners shall have the right to obligate minority partners to accept an offer from a bona fide buyer to purchase all the company’s interests for the same price and under the same terms and conditions applicable to the purchase of majority interests."
+  },
+  {
+    "Arabic Sentence": "§121§ أن يكون لأقلية الشركاء إلزام الأكثرية بضمـان بيع حصص الأقلية في الحالات التي يبيع فيها الأكثرية حصصهم بذات السعر والشروط والأحكام الخاصة ببيع حصص الأكثرية.",
+    "English Sentence": "§141§ In cases in which the majority sell their interests, minority partners shall have the right to obligate majority partners to guarantee the sale of minority interests for the same price and under the same terms and conditions applicable to the sale of majority interests."
+  },
+  {
+    "Arabic Sentence": "§122§ إذا بلغت خسائر الشركة نصف رأس مالها، وجب على مدير الشركة دعوة الجمعية العامة للشركاء إلى الاجتماع خلال (ستين) يومًا من تاريخ العلم ببلوغ الخسارة هذا المقدار للنظر في استمرار الشركة مع اتخاذ أي من الإجراءات اللازمة لمعالجة تلك الخسائر، أو حلها.",
+    "English Sentence": "§142§ If the losses of a company amount to half of its capital, the company’s manager shall, within 60 days from the date of his knowledge thereof, call for a meeting of the general assembly of partners to consider the continuation of the company by taking measures necessary to resolve such losses, or the dissolution of the company."
+  },
+  {
+    "Arabic Sentence": "§123§ يجوز مدّ أجل الشركة إذا كانت محددة المدة قبل انقضائها لمدة أخرى بقرار تصدره الجمعية العامة للشركاء من أيّ عدد من الشركاء المالكين لنصف الحصص الممثلة لرأس المال؛ ما لم ينص عقد تأسيس الشركة على أغلبية أكبر.",
+    "English Sentence": "§143§ If the company is incorporated for a fixed term, said term may be extended prior to its termination for another term pursuant to a decision issued by the general assembly of partners which comprises any number of partners owning half of the represented capital interests, unless the company’s articles of incorporation provide for a greater majority."
+  },
+  {
+    "Arabic Sentence": "§124§ إذا لم يصدر قرار بمدّ أجل الشركة واستمرت في أداء أعمالها، امتد أجلها لمدة مماثلة بالشروط ذاتها الواردة في عقد تأسيسها.",
+    "English Sentence": "§144§ If a decision to extend the company’s term is not issued and the company continues to operate, its term shall be extended for a similar term subject to the same conditions stipulated in its articles of incorporation."
+  },
+  {
+    "Arabic Sentence": "§125§ للشريك الذي لا يرغب في الاستمرار في الشركة أن يتخارج منها، وتقوَّمُ حصصه وفقاً للأحكام الواردة في المادة (الثامنة والسبعين بعد المائة) من النظام، ولا ينفذ التمديد إلا بعد بيع حصة هذا الشريك للشركاء أو الغير -بحسب الأحوال- وأداء قيمتها له، ما لم يتفق الشريك المنسحب مع باقي الشركاء على غير ذلك.",
+    "English Sentence": "§145§ A partner who does not want to continue with the company may withdraw therefrom, and his interests shall be valuated in accordance with the provisions of Article 178 of this Law.\n§146§ An extension shall not take effect until the interests of said partner are sold to the other partners or to others, as the case may be, and their value is paid to said partner, unless the withdrawing partner and the remaining partners agree otherwise."
+  },
+  {
+    "Arabic Sentence": "§126§ يجوز للغير الذي له مصلحة في عدم مدّ الأجل الاعتراض عليه والتمسك بعدم نفاذه في حقه.",
+    "English Sentence": "§147§ A party with an interest in non-extension may object thereto and request non- enforcement of such extension against him."
+  },
+  {
+    "Arabic Sentence": "§127§ لا تنقضي الشركة ذات المسؤولية المحدودة بوفاة أحد الشركاء، ولا بالحجر عليه، ولا بافتتاح أيٍّ من إجراءات التصفية تجاهه وفقاً لنظام الإفلاس، ولا بإعساره، ولا بانسحابه، ما لم ينص عقد تأسيس الشركة على ذلك.",
+    "English Sentence": "§148§ A limited liability company shall not terminate upon a partner’s death, interdiction, withdrawal, insolvency, or upon the initiation of any liquidation proceedings under the Bankruptcy Law against such partner, unless provided for in the company’s articles of incorporation."
+  },
+  {
+    "Arabic Sentence": "§128§ الشركة غير الربحية العامة: هي شركة تتخذ شكل شركة مساهمة وليس لها اتخاذ أي شكل آخر، وتنفق الأرباح المتحققة من ممارسة نشاطها في أي من المصارف والمجالات غير الربحية العامة التي تهدف حصراً إلى خدمة المجتمع بعمومه.",
+    "English Sentence": "§149§ A public non-profit company shall take the form of a joint-stock company and it may not take any other form.\n§150§ The profits realized from carrying out its activities shall be used in non-profit areas of spending that exclusively serve the community."
+  },
+  {
+    "Arabic Sentence": "§129§ وتحدد الوزارة بالتنسيق مع المركز الوطني لتنمية القطاع غير الربحي تلك المصارف والمجالات.",
+    "English Sentence": "§151§ The Ministry shall, in coordination with the National Center for Non-Profit Sector, designate such areas."
+  },
+  {
+    "Arabic Sentence": "§130§ الشركة غير الربحية الخاصة: هي شركة تتخذ شكل الشركة ذات المسؤولية المحدودة أو شركة المساهمة أو شركة المساهمة المبسطة وليس لها اتخاذ أي شكل آخر، وتنفق الأرباح المتحققة من ممارسة نشاطها في أي من المصارف والمجالات غير الربحية.",
+    "English Sentence": "§152§ A private non-profit company shall take the form of a limited liability company, joint-stock company, or simplified joint-stock company, and it may not take any other form.\n§153§ The profits realized from carrying out its activities shall be used in non-profit areas of spending."
+  },
+  {
+    "Arabic Sentence": "§131§ يُحظر على الشركة غير الربحية طرح أسهمها للاكتتاب العام.",
+    "English Sentence": "§154§ A non-profit company shall not offer its shares for public subscription."
+  },
+  {
+    "Arabic Sentence": "§132§ تسري على الشركة غير الربحية فيما لم يرد به نص في هذا الباب الأحكام الخاصة بشكل الشركة الذي تتخذه، وبما لا يتعارض مع طبيعتها.",
+    "English Sentence": "§155§ Absent a specific provision in this Part, a non-profit company shall be subject to the provisions relating to its form in a manner not inconsistent with its nature."
+  },
+  {
+    "Arabic Sentence": "§133§ يشترط للموافقة على تأسيس الشركة غير الربحية العامة النص في نظامها الأساس على المصارف والمجالات غير الربحية العامة، ويجوز للشركة غير الربحية الخاصة النص في عقد تأسيسها أو نظامها الأساس على أي مصارف ومجالات غير ربحية.",
+    "English Sentence": "§156§ Incorporation of a public non-profit company requires that its articles of association designate the non-profit areas of spending.\n§157§ A private non-profit company may designate the non-profit areas of spending in its articles of incorporation or articles of association."
+  },
+  {
+    "Arabic Sentence": "§134§ مع مراعاة الأنظمة ذات العلاقة، للشركة غير الربحية أن تحصل على عوائد نقدية أو عينية مقابل أعمالها ومنتجاتها وخدماتها، وأن تمارس أي نشاط مشروع يمكنها من تحقيق أرباح تنفقها في المصارف والمجالات المنصوص عليها في عقد تأسيسها أو نظامها الأساس.",
+    "English Sentence": "§158§ Subject to relevant laws, a non-profit company may collect cash or in-kind consideration for its activities, products, and services.\n§159§ It may also engage in any legitimate activity to gain profits to be used in the areas of spending designated in its articles of incorporation or articles of association."
+  },
+  {
+    "Arabic Sentence": "§135§ إذا اشتمل قرار تعديل النظام الأساس للشركة غير الربحية العامة على تعديل أحكام التصرف في الأصول أو تعديل صلاحيات مجلس الإدارة أو مصارف ومجالات الشركة، فلا يكون هذا التعديل نافذًا إلا بعد الحصول على موافقة الوزارة.",
+    "English Sentence": "§160§ If the decision amending the articles of association of a public non-profit company includes amending the provisions for the disposition of assets, the powers of the board of directors, or the company’s areas of spending, said amendment shall not become effective until the Ministry’s approval is obtained."
+  },
+  {
+    "Arabic Sentence": "§136§ يكون كل شريك أو مساهم في الشركة غير الربحية عضواً.",
+    "English Sentence": "§161§ A partner or shareholder in a non-profit company shall be deemed a member in said company."
+  },
+  {
+    "Arabic Sentence": "§137§ يجوز أن ينص في عقد تأسيس الشركة غير الربحية أو نظامها الأساس على الآتي:",
+    "English Sentence": "§162§ The articles of incorporation or articles of association of a non-profit company may provide for the following:"
+  },
+  {
+    "Arabic Sentence": "§138§ تحديد فئات وشروط وأحكام العضوية فيها.",
+    "English Sentence": "§163§ Determining categories of membership as well as the terms and conditions thereof."
+  },
+  {
+    "Arabic Sentence": "§139§ تحديد صلاحيات فئات العضوية والموضوعات التي يلزم لها الحصول على موافقة الجمعية الخاصة بأعضاء الشركة، والنصاب اللازم لذلك، ويشمل ذلك حق الرقابة على المدير أو مجلس الإدارة، والتحقق من إنفاق أرباح الشركة على تحقيق أهدافها في المصارف والمجالات المنصوص عليها في عقد تأسيسها أو نظامها الأساس.",
+    "English Sentence": "§164§ Determining the powers of membership categories and the matters requiring the approval of the members’ assembly as well as the required quorum therefor, including the right to monitor the manager or board of directors and to ensure that the company’s profits are used to achieve its objectives in the areas of spending designated in its articles of incorporation or articles of association."
+  },
+  {
+    "Arabic Sentence": "§140§ منح فئة معينة من الأعضاء الحق في التصويت على قرارات الشركة في جمعية خاصة.",
+    "English Sentence": "§165§ Granting a certain category of members the right to vote on company decisions in a special assembly."
+  },
+  {
+    "Arabic Sentence": "§141§ منح فئة معينة من الأعضاء الحق في تعيين واحد أو أكثر من مديري الشركة أو أعضاء مجلس الإدارة، وفي هذه الحالة لا يجوز عزله إلا من قبل الفئة التي عينته.",
+    "English Sentence": "§166§ Granting a certain category of members the right to appoint one or more company managers or board members.\n§167§ In such case, the appointee may not be removed from his position except by the category of members that appointed him."
+  },
+  {
+    "Arabic Sentence": "§142§ إصدار شهادات عضوية تكون غير قابلة للتداول.",
+    "English Sentence": "§168§ Issuing membership certificates that are not negotiable."
+  },
+  {
+    "Arabic Sentence": "§143§ واستثناءً من ذلك، يجوز النص على تنازل عضو الشركة غير الربحية الخاصة عن عضويته.",
+    "English Sentence": "§169§ As an exception, a provision may be made for a private non-profit company member to assign his membership."
+  },
+  {
+    "Arabic Sentence": "§144§ اشتراط دفع رسوم سنوية أو مساهمات نقدية أو عينية على فئة أو أكثر من فئات عضوية الشركة غير الربحية.",
+    "English Sentence": "§170§ Imposing the payment of annual fees or cash or in-kind contributions on one or more membership categories."
+  },
+  {
+    "Arabic Sentence": "§145§ اشتراط تقديم عمل أو خدمة للشركة للحصول على عضويتها.",
+    "English Sentence": "§171§ Stipulating the provision of work or service to the company in exchange for membership therein."
+  },
+  {
+    "Arabic Sentence": "§146§ للوزارة تنظيم الجوانب المتعلقة بالعضوية في الشركات غير الربحية.",
+    "English Sentence": "§172§ The Ministry may regulate matters relating to membership in non-profit companies."
+  },
+  {
+    "Arabic Sentence": "§147§ ترتب كل فئة من فئات العضوية حقوقًا والتزامات متساوية، وتثبت للعضو جميع الحقوق المتصلة بعضويته بما في ذلك الحق في الاشتراك في مداولات جمعيات الأعضاء، وحق الاطلاع على سجلات الشركة ووثائقها.",
+    "English Sentence": "§173§ Each category of membership shall have equal rights and obligations.\n§174§ A member shall have all the rights associated with his membership, including the right to participate in the deliberations of member assemblies and the right to access the company’s records and documents."
+  },
+  {
+    "Arabic Sentence": "§148§ مع مراعاة ما ورد في النظام وعقد تأسيس الشركة غير الربحية أو نظامها الأساس، تنتهي العضوية في الشركة غير الربحية في الحالات الآتية:",
+    "English Sentence": "§175§ Subject to the provisions of this Law and the articles of incorporation or articles of association of a non-profit company, membership of a non-profit company shall terminate in the following cases:"
+  },
+  {
+    "Arabic Sentence": "§149§ الوفاة أو زوال الشخصية الاعتبارية.",
+    "English Sentence": "§176§ Death of a natural person or termination of legal personality."
+  },
+  {
+    "Arabic Sentence": "§150§ التنازل للغير عن العضوية في الشركة غير الربحية الخاصة.",
+    "English Sentence": "§177§ Assignment of the membership of a private non-profit company to a third party."
+  },
+  {
+    "Arabic Sentence": "§151§ الإلغاء وفقًا لأحكام عقد تأسيس الشركة أو نظامها الأساس.",
+    "English Sentence": "§178§ Cancellation in accordance with the provisions of the company’s articles of incorporation or articles of association."
+  },
+  {
+    "Arabic Sentence": "§152§ انتهاء مدة العضوية دون تجديد.",
+    "English Sentence": "§179§ Expiration of membership term without renewal."
+  },
+  {
+    "Arabic Sentence": "§153§ انقضاء الشركة.",
+    "English Sentence": "§180§ Termination of the company."
+  },
+  {
+    "Arabic Sentence": "§154§ يجوز للعضو طلب إنهاء عضويته على أن يكون مسؤولًا عن تعويض الشركة في حال ترتب على الإنهاء إخلال بالتزاماته تجاهها.",
+    "English Sentence": "§181§ A member may request the termination of his membership, provided that he compensates the company if such termination results in a breach of his obligations."
+  },
+  {
+    "Arabic Sentence": "§155§ تقيد بيانات الأعضاء في سجل خاص تعده الشركة غير الربحية لهذا الغرض.",
+    "English Sentence": "§182§ The information of members shall be recorded in a special register prepared by the non-profit company for such purpose."
+  },
+  {
+    "Arabic Sentence": "§156§ على الشركة تزويد السجل التجاري ببيانات السجل المشار إليه في الفقرة (١) من هذه المادة، وأي تعديل يطرأ عليه خلال (خمسة عشر) يومًا من تاريخ قيد الشركة لدى السجل التجاري أو من تاريخ التعديل بحسب الأحوال.",
+    "English Sentence": "§183§ The company shall provide the Commercial Register with the information referred to in paragraph (1) of this Article and any amendment thereto within 15 days from the date of the company’s registration with the Commercial Register or from the date of the amendment, as the case may be."
+  },
+  {
+    "Arabic Sentence": "§157§ مع مراعاة أحكام الأنظمة ذات العلاقة ونظام الشركة الأساسي، يجوز للشركة غير الربحية العامة قبول الهبات والوصايا والأوقاف النقدية والعينية أو إدارتها أو استثمارها والإنفاق من ريعها وفقاً لشروط الواهب أو الموصي أو الواقف إن وجدت، وإذا رغبت الشركة في تعديل هذه الشروط أو التخـلل منها، يتعين عليها الحصول على موافقة الواهب أو الموصي أو الواقف، فإن تعذر أو تعذر غيابه، فلها التقدم إلى الجهة القضائية المختصة بطلب ذلك، وتبت الجهة القضائية المختصة في الطلب وفقاً لما تراه محققاً لشـرط الواهب أو الموصي أو الواقف.",
+    "English Sentence": "§184§ Subject to the provisions of relevant laws and the company’s articles of association, a public non-profit company may accept, manage, or invest cash and in-kind gifts, bequests, and endowments, and disburse from their proceeds in accordance with the conditions, if any, of the donor, testator, or endower.\n§185§ If the company wishes to amend or be relieved from such conditions, and cannot obtain the approval of the donor, testator, or endower due to his death, disability, or absence, it may petition the competent judicial authority, which shall decide on the request as it deems appropriate to fulfill the conditions of the donor, testator, or endower."
+  },
+  {
+    "Arabic Sentence": "§158§ على الشركة غير الربحية أن تنفق الأرباح المتحققة من ممارسة أنشطتها في المصارف والمجالات المنصوص عليها في عقد تأسيسها أو نظامها الأساسي.",
+    "English Sentence": "§186§ A non-profit company shall use the profits realized from its activities in the areas of spending designated in its articles of incorporation or articles of association."
+  },
+  {
+    "Arabic Sentence": "§159§ ويجوز للشركة أن تخصص بعض أرباحها لتنمية استثماراتها والتوسع في أعمالها وفقاً ما تحدده اللوائح.",
+    "English Sentence": "§187§ The company may allocate some of its profits to maximize its investments and expand its operations as specified by the Regulations."
+  },
+  {
+    "Arabic Sentence": "§160§ يُحظر على الشركة غير الربحية توزيع أي من أرباحها على أي من أعضاء الشركة أو مديريها أو أعضاء مجلس إدارتها أو عامليها، ما لم يكن مشمولاً بمصارف ومجالات الشركة غير الربحية.",
+    "English Sentence": "§188§ A non-profit company may not distribute any of its profits to the company’s members,  managers,  board  members,  or  employees,  unless  such distribution of profits is included in its areas of spending."
+  },
+  {
+    "Arabic Sentence": "§161§ وتحدد اللوائح الحد الأقصى لنسبة الأرباح التي يمكن توزيعها وفقاً لما ورد في هذه الفقرة.",
+    "English Sentence": "§189§ The Regulations shall specify the maximum percentage of profits distributed in accordance with this paragraph."
+  },
+  {
+    "Arabic Sentence": "§162§ يجوز للشركة غير الربحية أن تمنح مكافآت أو أي مزايا أخرى معقولة لمديريها أو أعضاء مجلس إدارتها أو عامليها لقاء الخدمات والأعمال التي يقدمونها إلى الشركة.",
+    "English Sentence": "§190§ A non-profit company may pay remuneration or any other reasonable benefits to its managers, board members, or employees in exchange for the services and work they provide to the company."
+  },
+  {
+    "Arabic Sentence": "§163§ يجوز لأي من أعضاء الشركة غير الربحية أن يقيم دعوى أمام الجهة القضائية المختصة نيابة عن الشركة لطلب استرداد أي أرباح تُوزع أو تُصرف بالمخالفة لأحكام هذه المادة.",
+    "English Sentence": "§191§ A non-profit company member may file a lawsuit with the competent judicial authority on behalf of the company to request the redemption of any profits distributed or disbursed in violation of the provisions of this Article."
+  },
+  {
+    "Arabic Sentence": "§164§ لا يجوز للدائن الشخصي لأي عضو في الشركة غير الربحية العامة أن يطلب التنفيذ على أسهم ذلك العضو أو على الحقوق التي تحصل بها.",
+    "English Sentence": "§192§ A personal creditor of a member of a public non-profit company may not seek enforcement against the shares of such member or the rights associated therewith."
+  },
+  {
+    "Arabic Sentence": "§165§ مع مراعاة الأنظمة والقرارات ذات العلاقة، يجوز تأسيس شركات غير ربحية من قبل الجهات الحكومية والهيئات والمؤسسات العامة والجامعات وغيرها من الأشخاص ذوي الصفة الاعتبارية العامة المسموح لها بذلك.",
+    "English Sentence": "§193§ Subject to relevant laws and decisions, non-profit companies may be incorporated by government agencies, public bodies and institutions, universities, and other public legal persons permitted to incorporate such companies."
+  },
+  {
+    "Arabic Sentence": "§166§ يجوز لموظفي القطاع العام تأسيس شركات غير ربحية عامة أو المشاركة في ذلك.",
+    "English Sentence": "§194§ Public sector employees may incorporate or participate in the incorporation of public non-profit companies."
+  },
+  {
+    "Arabic Sentence": "§167§ استثناءً من الأنظمة ذات العلاقة، تُعد هيئة الزكاة والضريبة والجمارك، بالتنسيق مع الوزارة، الضوابط اللازمة لعدم خضوع الشركات غير الربحية لأحكام جباية الزكاة و/أو الضرائب، وحسم النفقات المقدمة إلى هذه الشركات عند تحديد الوعاء الضريبي للمكلف.",
+    "English Sentence": "§195§ Notwithstanding relevant laws, the Zakat, Tax, and Customs Authority shall, in coordination with the Ministry, set the necessary rules for exempting non-profit companies from the provisions of levying zakat and taxes and for deducting donations made to such companies upon determining the tax base of the taxpayer."
+  },
+  {
+    "Arabic Sentence": "§168§ الشركة المهنية هي شركة يؤسسها شخص أو أكثر من المرخص لهم نظامًا في ممارسة مهنة حرة واحدة أو أكثر، أو منهم مع غيرهم، ويكون غرضها ممارسة تلك المهن.",
+    "English Sentence": "§196§ A professional company is a company incorporated by one or more persons licensed to practice one or more professions, or by a combination of licensed professionals and others; its purpose is to practice such professions."
+  },
+  {
+    "Arabic Sentence": "§169§ تتخذ الشركة المهنية أياً من أشكال الشركات الواردة في المادة (الرابعة) من النظام.",
+    "English Sentence": "§197§ A professional company shall take any of the forms of companies stated in Article 4 of this Law."
+  },
+  {
+    "Arabic Sentence": "§170§ تسري على الشركة المهنية الأحكام التي لم يرد بهـا نص خاص في هذا الباب – الأحكام الخاصة بشكل الشركة الذي تتخذه، وما لا يتعارض مع طبيعتها.",
+    "English Sentence": "§198§ Absent a specific provision in this Part, a professional company shall be subject to the provisions governing its form in a manner not inconsistent with its nature."
+  },
+  {
+    "Arabic Sentence": "§171§ لا يكتسب الشريك أو المساهم في الشركة المهنية – أياً كان شكلها – صفة التاجر تبعاً لشراكته أو ملكيته للحصص أو الأسهم في الشركة.",
+    "English Sentence": "§199§ A partner or shareholder in a professional company, of any form, shall not acquire the capacity of a merchant by virtue of his partnership or ownership of interests or shares in the company."
+  },
+  {
+    "Arabic Sentence": "§172§ للأشخاص المرخص لهم في ممارسة مهنة حرة واحدة أن يؤسسوا فيما بينهم شركة مهنية بأي شكل من الأشكال الواردة في المادة (الرابعة) من النظام.",
+    "English Sentence": "§200§ Persons licensed to practice a single profession may incorporate a professional company which may take any of the forms stated in Article 4 of this Law."
+  },
+  {
+    "Arabic Sentence": "§173§ للشخص المرخص له في ممارسة مهنة حرة واحدة أن يؤسس شركة مهنية مساهمة أو مساهمة مبسطة أو ذات مسؤولية محدودة من شخص واحد لممارسة مهنته من خلالها.",
+    "English Sentence": "§201§ A person licensed to practice a single profession may incorporate a professional joint-stock company, simplified joint-stock company, or single- person limited liability company to practice his profession."
+  },
+  {
+    "Arabic Sentence": "§174§ وإذا كان مرخصًا له في ممارسة أكثر من مهنة حرة، فله ممارستها كلها أو بعضها من خلال الشركة، وذلك بعد استيفاء الشروط والضوابط التي تحددها اللوائح.",
+    "English Sentence": "§202§ If said person is licensed to practice multiple professions, he may practice all or some of his professions through the company, upon satisfying the conditions and rules specified in the Regulations."
+  },
+  {
+    "Arabic Sentence": "§175§ يجوز تأسيس شركة مهنية من مرخص لهم في ممارسة أكثر من مهنة حرة.",
+    "English Sentence": "§203§ A professional company may be incorporated by persons licensed to practice multiple professions, and it may be jointly incorporated by persons licensed to practice one or more professions and a non-Saudi professional company."
+  },
+  {
+    "Arabic Sentence": "§176§ ويجوز كذلك تأسيس شركة مهنية بمشاركة بين شخص مرخص له في ممارسة مهنة حرة واحدة أو أكثر وشركة مهنية غير سعودية.",
+    "English Sentence": "§203§ A professional company may be incorporated by persons licensed to practice multiple professions, and it may be jointly incorporated by persons licensed to practice one or more professions and a non-Saudi professional company."
+  },
+  {
+    "Arabic Sentence": "§177§ وتُبيّن اللوائح الشروط الخاصة بتأسيس هذه الشركات والضوابط المنظمة لنشاطها.",
+    "English Sentence": "§204§ The Regulations shall specify the conditions for the incorporation of such companies and the rules regulating their activities."
+  },
+  {
+    "Arabic Sentence": "§178§ يجوز أن يشارك أو يساهم في الشركة المهنية – عدا شركة التضامن وشركة التوصية البسيطة بصفتـه شريكًا متضامنًا – شخص غير مرخص له بممارسة المهنة إذا كانت مشاركته لا تؤثر على استقلال المهنة، أو شخص ذو صفة اعتبارية.",
+    "English Sentence": "§205§ A legal person or a natural person who is not licensed to practice any of the professions for which a professional company is incorporated may be a partner or shareholder in a professional company, but may not be a general partner in a general partnership or a limited partnership."
+  },
+  {
+    "Arabic Sentence": "§179§ وتبيّن اللوائح ضوابط إضافية يجب على الشركاء مراعاتها لإدارة هذا النوع من الشركات بما لا يؤثر على استقلال المهنة أو ممارسة المهنيين لمهنتهم.",
+    "English Sentence": "§206§ The Regulations shall determine the conditions and rules therefor as well as the general rules for managing this form of professional company to maintain the independence of the professional partners or shareholders in practicing their professions."
+  },
+  {
+    "Arabic Sentence": "§180§ لا يجوز للشريك في شركة مهنية ولا للمساهم فيها، الممارسين لمهنة حرة، المشاركة ولا المساهمة في شركة مهنية أخرى تمارس المهنة الحرة ذاتها، ما لم ينص عقد تأسيس الشركة أو نظامها الأساس على ذلك، ودون إخلال بالأنظمة ذات العلاقة.",
+    "English Sentence": "§207§ A partner or shareholder in a professional company who practices a profession may not be a partner or shareholder in another professional company practicing the same profession, unless permitted under the company’s articles of incorporation or articles of association and without prejudice to relevant laws."
+  },
+  {
+    "Arabic Sentence": "§181§ وتبين اللوائح الأحكام والضوابط التي يجوز فيها للشريك أو المساهم المرخص له المشاركة أو المساهمة في شركة مهنية أخرى.",
+    "English Sentence": "§208§ The Regulations shall specify the provisions and rules permitting a licensed partner or shareholder to be a partner or shareholder in another professional company."
+  },
+  {
+    "Arabic Sentence": "§182§ تُؤسس الشركة المهنية وفقًا للإجراءات التأسيسية المقررة لتشكيل الشركة.",
+    "English Sentence": "§209§ A professional company shall be incorporated in accordance with the incorporation procedures prescribed for the form it takes."
+  },
+  {
+    "Arabic Sentence": "§183§ لا يجوز للشركاء ولا للمساهمين في الشركة المهنية حلها إلا بعد الإعلان عن ذلك وإبلاغ جميع المتعاملين معها كتابة بحسب الإجراءات التي تحددها اللوائح.",
+    "English Sentence": "§210§ Partners or shareholders in a professional company may not dissolve such company except after the dissolution is announced and the parties dealing with the company are notified thereof in writing, in accordance with the procedures specified by the Regulations."
+  },
+  {
+    "Arabic Sentence": "§184§ لا تمارس الشركة المهنية المهنة أو المهن الحرة محل نشاطها إلا عن طريق الشركاء أو المساهمين المرخص لهم.",
+    "English Sentence": "§211§ A professional company may not practice the professions for which it is incorporated except through its licensed partners or shareholders."
+  },
+  {
+    "Arabic Sentence": "§185§ ومع ذلك، يجوز لها الاستعانة في أعمالها بأشخاص آخرين غير مرخص لهم بممارسة المهنة أو المهن على نشاطها، على أن يخضعوا في ذلك لإشراف الشركة ومسؤوليتها.",
+    "English Sentence": "§212§ However, it may seek the assistance of other persons licensed in such professions, provided that said persons operate under the company’s supervision and responsibility."
+  },
+  {
+    "Arabic Sentence": "§186§ تزاول الشركة المهنية المهنة أو المهن الحرة محل نشاطها فقط.",
+    "English Sentence": "§213§ A professional company may only practice the professions for which it is incorporated."
+  },
+  {
+    "Arabic Sentence": "§187§ لا يجوز للشركة المهنية ممارسة الأعمال التجارية.",
+    "English Sentence": "§214§ A professional company may not engage in commercial activities."
+  },
+  {
+    "Arabic Sentence": "§188§ ومع ذلك، يجوز لها تملّك الأصول العقارية واستثمار أموالها في العقارات أو الأوراق المالية أو أي نوع آخر من الاستثمارات، لخدمة أغراضها.",
+    "English Sentence": "§215§ It may, however, own real property assets and invest its funds in real estate, commercial papers, or any other type of investment to serve its purposes."
+  },
+  {
+    "Arabic Sentence": "§189§ وتحدد اللوائح ضوابط ذلك.",
+    "English Sentence": "§216§ The Regulations shall specify the necessary rules therefor."
+  },
+  {
+    "Arabic Sentence": "§190§ تخضع الشركة المهنية -في ممارسة المهنة أو المهن الحرة محل نشاطها- لإشراف الجهة أو الجهات المعنية نظاماً بالإشراف على ممارسة تلك المهن.",
+    "English Sentence": "§217§ A professional company shall, in practicing the professions for which it is incorporated, be subject to the supervision of the relevant supervisory authorities."
+  },
+  {
+    "Arabic Sentence": "§191§ على الشركة المهنية التقيد بأحكام الأنظمة واللوائح التي تضعها الجهة أو الجهات المعنية وفق اختصاصها.",
+    "English Sentence": "§218§ A professional company shall comply with the laws and regulations set by the relevant authorities within their powers."
+  },
+  {
+    "Arabic Sentence": "§192§ للجهة المعنية الاطلاع على سجلات الشركة المهنية ووثائقها والتفتيش عليها -في حدود اختصاصها- للتحقق من التزامها بأحكام الأنظمة ذات العلاقة بالمهنة الحرة محل نشاطها، وعلى الشركة المهنية الالتزام بتقديم ما يطلب منها.",
+    "English Sentence": "§219§ The relevant authority may, within its powers, inspect a professional company and review its records and documents to ensure its compliance with the laws related to the profession for which it is incorporated.\n§220§ The professional company must provide any documents required therefrom."
+  },
+  {
+    "Arabic Sentence": "§193§ لا يجوز للشريك ولا للمساهم في الشركة المهنية ممارسة مهنته الحرة إلا عن طريقها، ما لم تكن مملوكة لشخص واحد.",
+    "English Sentence": "§221§ A partner or shareholder in a professional company may only practice his profession through the company, unless it is owned by a single person."
+  },
+  {
+    "Arabic Sentence": "§194§ استثناءً مما ورد في الفقرة (١) من هذه المادة، يجوز للشريك أو المساهم ممارسة مهنته الحرة عن طريق غير الشركة إذا وافق باقي الشركاء على ذلك كتابة أو حصل على موافقة الجمعية العامة بحسب الأحوال.",
+    "English Sentence": "§222§ Notwithstanding paragraph (1) of this Article, a partner or shareholder may practice his profession separately from the company if the other partners agree thereto in writing or upon obtaining the approval of the general assembly, as the case may be."
+  },
+  {
+    "Arabic Sentence": "§195§ إذا أخل الشريك أو المساهم بما ورد في أي من الفقرتين (١) و(٢) من هذه المادة، كان ما يتحصل عليه من أتعاب ومنافع مالية أخرى حقاً للشركة.",
+    "English Sentence": "§223§ If a partner or shareholder violates the provisions of paragraphs (1) and (2) of this Article, the company shall be entitled to the fees and other financial benefits he receives."
+  },
+  {
+    "Arabic Sentence": "§196§ دون إخلال بالفقرة (٢) من هذه المادة، يتولى إدارة الشركة المهنية واحد – أو أكثر – من الشركاء فيها أو من غيرهم، فإذا تولى إدارتها شخص واحد وجب أن يكون من الشركاء المرخص لهم، وإذا تولى إدارتها أكثر من شخص فلا يجوز أن يقل عدد الشركاء المرخص لهم عما حددته اللوائح.",
+    "English Sentence": "§224§ Without prejudice to paragraph (2) of this Article, a professional company shall be managed by one person, or more, from among its partners or others.\n§225§ If it is managed by one person, said person must be a licensed partner.\n§226§ If it is managed by more than one person, the number of licensed partners shall not be less than the number specified by the Regulations."
+  },
+  {
+    "Arabic Sentence": "§197§ ويحدد عقد تأسيس الشركة أو نظامها الأساس شروط تعيين المدير، وسلطاته، ومكافآته، ومدة إدارته للشركة، وطريقة عزله.",
+    "English Sentence": "§227§ The company’s articles of incorporation or articles of association shall determine the conditions for appointing the manager as well as his powers, remuneration, term, and the manner of his removal."
+  },
+  {
+    "Arabic Sentence": "§198§ يتولى إدارة شركة المساهمة المهنية مجلس إدارة يُكوّن من مساهميها أو من غيرهم، وتحدد اللوائح عدد أعضاء مجلس الإدارة الذين يتعين أن يكونوا من المساهمين المرخص لهم.",
+    "English Sentence": "§228§ A professional joint-stock company shall be managed by a board of directors comprising its shareholders or others.\n§229§ The Regulations shall specify the number of board members who must be licensed shareholders."
+  },
+  {
+    "Arabic Sentence": "§199§ ويحدد نظام الشركة الأساس صلاحيات المجلس والأحكام المتعلقة بتشكيله.",
+    "English Sentence": "§230§ The company’s articles of association shall determine the board’s powers and the provisions relating to its formation."
+  },
+  {
+    "Arabic Sentence": "§200§ لا يجوز أن تتضمن سلطة المدير أو مجلس إدارة الشركة المهنية – المملوكة لأكثر من شخص واحد – ما يُخِل باستقلال الشركاء أو المساهمين في ممارستهم لمهنهم الحرة.",
+    "English Sentence": "§231§ The powers of the manager or board of directors of a professional company owned by more than one person may not prejudice the independence of partners or shareholders in practicing their professions."
+  },
+  {
+    "Arabic Sentence": "§201§ يُسأل كل شريك أو مساهم في الشركة المهنية بصفة شخصية عن أخطائه المهنية تجاه الشركة وباقي الشركاء أو المساهمين، بحسب الأحوال.",
+    "English Sentence": "§232§ A partner or shareholder in a professional company shall be personally liable to the company and other partners or shareholders, as the case may be, for his malpractice."
+  }
+]
