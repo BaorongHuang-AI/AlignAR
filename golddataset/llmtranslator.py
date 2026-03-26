@@ -181,17 +181,13 @@ def translate_lines_ar(file, source_lines):
 # ---------------- MAIN EXECUTION ----------------
 folder_path = "law/ar"
 for file in os.listdir(folder_path):
-    # if "005" not in file:
-    #     continue
+
     source_file_path = os.path.join(folder_path, file)
     target_file_path = source_file_path.replace("ar", "en")
     #
     # # Read the files
     source_lines = read_file(source_file_path)
     target_lines = read_file(target_file_path)
-
-    # Gap control
-    # gap = 10  # adjustable window size for alignment
 
 
     translate_lines_en(file, source_lines)
