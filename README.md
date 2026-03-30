@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 Parallel corpora are essential for machine translation and cross-lingual research, yet high-quality Arabic–English datasets remain scarce—especially for complex domains like legal and literary texts.
 
@@ -16,85 +16,50 @@ Parallel corpora are essential for machine translation and cross-lingual researc
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-- 🧠 **LLM-based alignment**  
+-  **LLM-based alignment**  
   Uses generative models instead of rule-based or embedding-only methods
 
-- 🔗 **Flexible mapping**  
+-  **Flexible mapping**  
   Handles complex alignments beyond simple sentence pairs
 
-- 📚 **Domain-specific datasets**  
+-  **Domain-specific datasets**  
   Focus on legal and literary corpora
 
-- ⚙️ **Lightweight pipeline**  
+-  **Lightweight pipeline**  
   Lower hardware requirements compared to traditional alignment systems
 
-- 📊 **Improved performance**  
+-  **Improved performance**  
   More robust on challenging datasets
 
 ---
 
-## 🏗️ Methodology
+## Methodology
 
 AlignAR follows a **generative alignment pipeline**:
 
-1. **Preprocessing**
-   - Segment source and target documents
-   - Add sentence indices to preserve structure
-
-2. **Prompt-based Alignment**
+1. **Prompt-based Alignment**
    - Use LLMs to generate aligned sentence pairs
    - Encourage structured outputs with explicit indexing
 
-3. **Post-processing**
-   - Extract aligned pairs
-   - Normalize and clean outputs
-
-4. **Evaluation**
+2. **Evaluation**
    - Compare against gold alignments
    - Measure precision, recall, and F1
 
 ---
 
-## 📂 Project Structure
 
-```
-AlignAR/
-├── data/
-├── prompts/
-├── scripts/
-├── evaluation/
-├── outputs/
-└── README.md
-```
-
----
-
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/BaorongHuang-AI/AlignAR.git
-cd AlignAR
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Usage
-
-```bash
-python scripts/align.py --source data/source.txt --target data/target.txt --output outputs/aligned.json
-```
-
----
-
-## 📖 Citation
+##  Citation
 
 ```bibtex
-@article{huang2025alignar,
-  title={AlignAR: Generative Sentence Alignment for Arabic-English Parallel Corpora},
-  author={Huang, Baorong and Asiri, Ali},
-  year={2025}
+@misc{huang2026alignargenerativesentencealignment,
+      title={AlignAR: Generative Sentence Alignment for Arabic-English Parallel Corpora of Legal and Literary Texts}, 
+      author={Baorong Huang and Ali Asiri},
+      year={2026},
+      eprint={2512.21842},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.21842}, 
 }
 ```
